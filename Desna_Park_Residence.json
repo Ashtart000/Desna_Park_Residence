@@ -2559,6 +2559,57 @@
           }
       ],
       "area_living": "27.88"
+    },
+    {
+      "id": "29216",
+      "room_count": "2",
+      "area_total": "57.36",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86-01.png_724394_1574360455.png",
+          "img_flat": "https://realbase.net/public/files/upload/34%D0%B4%D0%BE%D0%BC1.png_14015_1629989999.png"
+        }
+      ],
+      "price_total": "52000",
+      "price_m2": "907",
+      "house_id": "Корпус №9",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "18",
+      "explication": [
+          {
+            "name": "Передпокій",
+            "area": "3.95"
+          },
+          {
+            "name": "Кухня-вітальня",
+            "area": "17.89"
+          },
+          {
+            "name": "С/в 1",
+            "area": "1.88"
+          },
+          {
+            "name": "Коридор",
+            "area": "2.69"
+          },
+          {
+            "name": "Дитяча",
+            "area": "10.00"
+          },
+          {
+            "name": "С/в 2",
+            "area": "3.85"
+          },
+          {
+            "name": "Спальня",
+            "area": "17.10"
+          }
+      ],
+      "area_living": "27.10"
     }
   ]
 }
