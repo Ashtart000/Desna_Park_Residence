@@ -1,10 +1,10 @@
 {
-  "generation_time": "2023-01-10 18:00:00",
+  "generation_time": "2023-02-09 18:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
     {
-      "id": "29265_1",
+      "id": "29265",
       "room_count": "3",
       "area_total": "120.40",
       "floor": "4",
@@ -88,113 +88,24 @@
       "area_living": "50.82"
     },
     {
-      "id": "29401",
-      "room_count": "3",
-      "area_total": "117.87",
-      "floor": "4",
-      "levels_count": "2",
+      "id": "29296",
+      "room_count": "1",
+      "area_total": "45.50",
+      "floor": "1",
+      "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom2_4.png_60889_1666208876.png",
-          "img_flat": "http://realbase.net/public/files/upload/113кв.м._1.png_887857_1630404452.png"
-        },
-        {
-          "level_number": 2,
-          "img_floor": "https://realbase.net/public/files/upload/dom2_4.png_60889_1666208876.png",
-          "img_flat": "http://realbase.net/public/files/upload/113кв.м._2.png_486338_1630404466.png"
+          "img_floor": "https://realbase.net/public/files/upload/dom2_1.png_814371_1670274245.png",
+          "img_flat": "https://realbase.net/public/files/upload/45_1%D0%B9-%D1%8D%D1%82%D0%B0%D0%B6_1.png_217235_1632755121.png"
         }
       ],
-      "price_total": "66187",
-      "price_m2": "562",
-      "house_id": "Корпус №6",
+      "price_total": "42000",
+      "price_m2": "923",
+      "house_id": "Корпус №2",
       "section_id": "Секція 3",
       "status": "available",
-      "flat_number": "46",
-      "explication": [
-        {
-          "name": "Загалом 1-й поверх",
-          "area": "66.0"
-        },
-        {
-          "name": "Передпокій",
-          "area": "5.11"
-        },
-        {
-          "name": "Кухня",
-          "area": "16.18"
-        },
-        {
-          "name": "Вітальня",
-          "area": "12.04"
-        },
-        {
-          "name": "Санвузол 1",
-          "area": "3.49"
-        },
-        {
-          "name": "Кладова",
-          "area": "3.33"
-        },
-        {
-          "name": "Спальня",
-          "area": "17.08"
-        },
-        {
-          "name": "Лоджія",
-          "area": "4.65"
-        },
-        {
-          "name": "Загалом 2-й поверх",
-          "area": "51.87"
-        },
-        {
-          "name": "Сходи",
-          "area": "3.46"
-        },
-        {
-          "name": "Спальня",
-          "area": "17.82"
-        },
-        {
-          "name": "Санвузол 2",
-          "area": "8.95"
-        },
-        {
-          "name": "Дитяча ",
-          "area": "15.92"
-        },
-        {
-          "name": "Хол",
-          "area": "5.72"
-        }
-      ],
-      "area_living": "50.82"
-    },
-    {
-      "id": "29166_2",
-      "room_count": "2",
-      "area_total": "78.23",
-      "floor": "4",
-      "levels_count": "2",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "http://realbase.net/public/files/upload/второй-01.png_56656_1574359831.png",
-          "img_flat": "http://realbase.net/public/files/upload/Тип 10-1-1У.png_670881_1574344043.png"
-        },
-        {
-          "level_number": 2,
-          "img_floor": "http://realbase.net/public/files/upload/второй-01.png_56656_1574359831.png",
-          "img_flat": "http://realbase.net/public/files/upload/Тип 10-1-2У.png_547642_1574344063.png"
-        }
-      ],
-      "price_total": "57318",
-      "price_m2": "733",
-      "house_id": "Корпус №8",
-      "section_id": "Секція 1",
-      "status": "available",
-      "flat_number": "16",
+      "flat_number": "36",
       "explication": [
         {
           "name": "Передпокій",
@@ -202,207 +113,73 @@
         },
         {
           "name": "Кухня-вітальня",
-          "area": "17.35"
+          "area": "21.10"
         },
         {
-          "name": "Санвузол 1",
-          "area": "3.62"
+          "name": "Санвузол",
+          "area": "5.39"
         },
         {
           "name": "Спальня",
-          "area": "13.07"
-        },
-        {
-          "name": "Лоджія",
-          "area": "5.54"
-        },
-        {
-          "name": "Сходи",
-          "area": "3.46"
-        },
-        {
-          "name": "Хол",
-          "area": "5.68"
-        },
-        {
-          "name": "Санвузол 2",
-          "area": "8.54"
-        },
-        {
-          "name": "Дитяча",
-          "area": "17.72"
-        },
-        {
-          "name": "Загалом 1-й поверх",
-          "area": "42.83"
-        },
-        {
-          "name": "Загалом 2-й поверх",
-          "area": "35.40"
+          "area": "15.42"
         }
       ],
-      "area_living": "30.79"
+      "area_living": "15.42"
     },
     {
-      "id": "29166_3",
+      "id": "29288",
       "room_count": "2",
-      "area_total": "63.59",
-      "floor": "2",
+      "area_total": "65.60",
+      "floor": "3",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom9_2.png_720079_1666210371.png",
-          "img_flat": "http://realbase.net/public/files/upload/Тип 5-1.png_235253_1574701914.png"
-        }
-      ],
-      "price_total": "55641",
-      "price_m2": "875",
-      "house_id": "Корпус №9",
-      "section_id": "Секція 1",
-      "status": "available",
-      "flat_number": "7",
-      "explication": [
-        {
-          "name": "Передпокій",
-          "area": "5.37"
-        },
-        {
-          "name": "Кухня-столова",
-          "area": "17.89"
-        },
-        {
-          "name": "Санвузол 1",
-          "area": "2.04"
-        },
-        {
-          "name": "Коридор",
-          "area": "2.69"
-        },
-        {
-          "name": "Дитяча",
-          "area": "10.00"
-        },
-        {
-          "name": "Санвузол 2",
-          "area": "3.85"
-        },
-        {
-          "name": "Спальня",
-          "area": "17.10"
-        },
-        {
-          "name": "Лоджія",
-          "area": "4.65"
-        }
-      ],
-      "area_living": "27.10"
-    },
-    {
-      "id": "29220",
-      "room_count": "2",
-      "area_total": "63.59",
-      "floor": "2",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom9_2.png_720079_1666210371.png",
+          "img_floor": "https://realbase.net/public/files/upload/dom2.png_875392_1667418405.png",
           "img_flat": "https://realbase.net/public/files/upload/65,6.jpg_414898_1667418615.jpg"
         }
       ],
-      "price_total": "55641",
-      "price_m2": "875",
-      "house_id": "Корпус №9",
-      "section_id": "Секція 2",
+      "price_total": "55000",
+      "price_m2": "838",
+      "house_id": "Корпус №2",
+      "section_id": "Секція 4",
       "status": "available",
-      "flat_number": "22",
+      "flat_number": "58",
       "explication": [
         {
           "name": "Передпокій",
-          "area": "5.37"
+          "area": "5.47"
         },
         {
-          "name": "Кухня-столова",
-          "area": "17.89"
+          "name": "Кухня-вітальня",
+          "area": "17.99"
         },
         {
-          "name": "Санвузол 1",
-          "area": "2.04"
+          "name": "С/в 1",
+          "area": "2.14"
         },
         {
           "name": "Коридор",
-          "area": "2.69"
+          "area": "3.22"
         },
         {
           "name": "Дитяча",
           "area": "10.00"
         },
         {
-          "name": "Санвузол 2",
-          "area": "3.85"
+          "name": "С/в 2",
+          "area": "3.95"
         },
         {
           "name": "Спальня",
-          "area": "17.10"
+          "area": "17.88"
         },
         {
           "name": "Лоджія",
-          "area": "4.65"
+          "area": "4.95"
         }
       ],
-      "area_living": "27.10"
-    },
-    {
-      "id": "30686_4",
-      "room_count": "2",
-      "area_total": "81.40",
-      "floor": "1",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "http://realbase.net/public/files/upload/2Блок Б 1-3поверх-01.png_356650_1594365547.png",
-          "img_flat": "http://realbase.net/public/files/upload/81_дом4_тип16-01.png_258779_1653062623.png"
-        }
-      ],
-      "price_total": "70004",
-      "price_m2": "860",
-      "house_id": "Корпус №4",
-      "section_id": "Секція 4",
-      "status": "available",
-      "flat_number": "52",
-      "explication": [
-        {
-          "name": "Кухня-вітальня",
-          "area": "24.50"
-        },
-        {
-          "name": "Передпокій",
-          "area": "11.40"
-        },
-        {
-          "name": "Спальня",
-          "area": "14.8"
-        },
-        {
-          "name": "Санвузол",
-          "area": "5.80"
-        },
-        {
-          "name": "Спальня",
-          "area": "17.10"
-        },
-        {
-          "name": "Гардероб",
-          "area": "3.00"
-        },
-        {
-          "name": "Санвузол",
-          "area": "4.80"
-        }
-      ],
-      "area_living": "31.90"
+      "area_living": "27.88"
     },
     {
       "id": "30649_5",
@@ -444,45 +221,6 @@
       "area_living": "15.90"
     },
     {
-      "id": "29296",
-      "room_count": "1",
-      "area_total": "45.50",
-      "floor": "1",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom2_1.png_814371_1670274245.png",
-          "img_flat": "https://realbase.net/public/files/upload/45_1%D0%B9-%D1%8D%D1%82%D0%B0%D0%B6_1.png_217235_1632755121.png"
-        }
-      ],
-      "price_total": "42000",
-      "price_m2": "923",
-      "house_id": "Корпус №2",
-      "section_id": "Секція 3",
-      "status": "available",
-      "flat_number": "36",
-      "explication": [
-        {
-          "name": "Передпокій",
-          "area": "3.25"
-        },
-        {
-          "name": "Кухня-вітальня",
-          "area": "21.10"
-        },
-        {
-          "name": "Санвузол",
-          "area": "5.39"
-        },
-        {
-          "name": "Спальня",
-          "area": "15.42"
-        }
-      ],
-      "area_living": "15.42"
-    },
-     {
       "id": "30669",
       "room_count": "1",
       "area_total": "45.60",
@@ -563,6 +301,108 @@
         }
       ],
       "area_living": "16.18"
+    },
+    {
+      "id": "30686_4",
+      "room_count": "2",
+      "area_total": "81.40",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/2Блок Б 1-3поверх-01.png_356650_1594365547.png",
+          "img_flat": "http://realbase.net/public/files/upload/81_дом4_тип16-01.png_258779_1653062623.png"
+        }
+      ],
+      "price_total": "70004",
+      "price_m2": "860",
+      "house_id": "Корпус №4",
+      "section_id": "Секція 4",
+      "status": "available",
+      "flat_number": "52",
+      "explication": [
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.50"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.40"
+        },
+        {
+          "name": "Спальня",
+          "area": "14.8"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.80"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.10"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.00"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.80"
+        }
+      ],
+      "area_living": "31.90"
+    },
+    {
+      "id": "30713_9",
+      "room_count": "2",
+      "area_total": "79.80",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom4_2_1.png_792317_1666219998.png",
+          "img_flat": "http://realbase.net/public/files/upload/79.png_634954_1653063687.png"
+        }
+      ],
+      "price_total": "67830",
+      "price_m2": "850",
+      "house_id": "Корпус №4",
+      "section_id": "Секція 5",
+      "status": "available",
+      "flat_number": "67",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.92"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.64"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.55"
+        },
+        {
+          "name": "Спальня",
+          "area": "24.54"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.41"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.84"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.18"
+        }
+      ],
+      "area_living": "35.72"
     },
     {
       "id": "30699_7",
@@ -737,24 +577,325 @@
       "area_living": "67.98"
     },
     {
-      "id": "30713_9",
+      "id": "30723",
       "room_count": "2",
-      "area_total": "79.80",
+      "area_total": "96.22",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/2%D0%91%D0%BB%D0%BE%D0%BA%20%D0%91%201-3%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_356650_1594365547.png",
+          "img_flat": "https://realbase.net/public/files/upload/4%D0%94-25.png_728353_1594369559.png"
+        }
+      ],
+      "price_total": "81306",
+      "price_m2": "845",
+      "house_id": "Корпус №4",
+      "section_id": "Секція 6",
+      "status": "available",
+      "flat_number": "84",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.08"
+        },
+        {
+          "name": "Кухня-вітальня ",
+          "area": "37.84"
+        },
+        {
+          "name": "Санвузол ",
+          "area": "7.14"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.27"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.85"
+        }
+      ],
+      "area_living": "34.03"
+    },
+    {
+      "id": "33588_13",
+      "room_count": "2",
+      "area_total": "96.22",
       "floor": "1",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom4_2_1.png_792317_1666219998.png",
-          "img_flat": "http://realbase.net/public/files/upload/79.png_634954_1653063687.png"
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/96.png_264741_1631784481.png"
         }
       ],
-      "price_total": "67830",
-      "price_m2": "850",
-      "house_id": "Корпус №4",
-      "section_id": "Секція 5",
+      "price_total": "79863",
+      "price_m2": "830",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 1",
       "status": "available",
-      "flat_number": "67",
+      "flat_number": "2",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.08"
+        },
+        {
+          "name": "Кухня-вітальня ",
+          "area": "37.84"
+        },
+        {
+          "name": "Санвузол ",
+          "area": "7.14"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.27"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.85"
+        }
+      ],
+      "area_living": "34.03"
+    },
+    {
+      "id": "33604_14",
+      "room_count": "2",
+      "area_total": "96.22",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/96.png_264741_1631784481.png"
+        }
+      ],
+      "price_total": "81306",
+      "price_m2": "845",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "5",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.08"
+        },
+        {
+          "name": "Кухня-вітальня ",
+          "area": "37.84"
+        },
+        {
+          "name": "Санвузол ",
+          "area": "7.14"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.27"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.85"
+        }
+      ],
+      "area_living": "34.03"
+    },
+    {
+      "id": "33607_11",
+      "room_count": "4",
+      "area_total": "153.55",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/153кв.м_1.png_661417_1630148866.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/153кв.м_2.png_874449_1630148883.png"
+        }
+      ],
+      "price_total": "90327",
+      "price_m2": "588",
+      "house_id": "корпус №5",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "11",
+      "explication": [
+        {
+          "name": "Заголом 1-й поверх",
+          "area": "82.59"
+        },
+        {
+          "name": "Заголом 2-й поверх",
+          "area": "70.96"
+        },
+        {
+          "name": "Передпокій",
+          "area": "10.22"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "36.11"
+        },
+        {
+          "name": "Санвузол",
+          "area": "7.10"
+        },
+        {
+          "name": "Спальня",
+          "area": "25.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "11.34"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.85"
+        },
+        {
+          "name": "Дитяча",
+          "area": "12.42"
+        },
+        {
+          "name": "Дитяча",
+          "area": "16.98"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.09"
+        },
+        {
+          "name": "Санвузол",
+          "area": "7.16"
+        }
+      ],
+      "area_living": "74.25"
+    },
+    {
+      "id": "33608_12",
+      "room_count": "4",
+      "area_total": "161.24",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/161кв.м_1.png_106393_1630150273.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/161кв.м_2.png_371210_1630150382.png"
+        }
+      ],
+      "price_total": "98068",
+      "price_m2": "608",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "12",
+      "explication": [
+        {
+          "name": "1-й рівень",
+          "area": "95.92"
+        },
+        {
+          "name": "2-й рівень",
+          "area": "65.32"
+        }
+      ],
+      "area_living": "85.33"
+    },
+    {
+      "id": "33798_15",
+      "room_count": "3",
+      "area_total": "164.88",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_336169_1608198040.png",
+          "img_flat": "http://realbase.net/public/files/upload/164_1.png_937882_1630416897.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_336169_1608198040.png",
+          "img_flat": "http://realbase.net/public/files/upload/164_2.png_329561_1630416906.png"
+        }
+      ],
+      "price_total": "96717",
+      "price_m2": "587",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "24",
+      "explication": [
+        {
+          "name": "1-й рівень",
+          "area": "87.90"
+        },
+        {
+          "name": "2-й рівень",
+          "area": "76.98"
+        }
+      ],
+      "area_living": "65.06"
+    },
+    {
+      "id": "33645",
+      "room_count": "2",
+      "area_total": "79.08",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_286072_1608198105.png",
+          "img_flat": "https://realbase.net/public/files/upload/79.png_894559_1632648668.png"
+        }
+      ],
+      "price_total": "66427",
+      "price_m2": "840",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 3",
+      "status": "available",
+      "flat_number": "27",
       "explication": [
         {
           "name": "Передпокій",
@@ -788,366 +929,6 @@
       "area_living": "35.72"
     },
     {
-      "id": "30710_10",
-      "room_count": "2",
-      "area_total": "83.83",
-      "floor": "2",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom4_2_2.png_858206_1666221185.png",
-          "img_flat": "https://realbase.net/public/files/upload/4%D0%94-24M.png_178407_1594369542.png"
-        }
-      ],
-      "price_total": "69800",
-      "price_m2": "833",
-      "house_id": "Корпус №4",
-      "section_id": "Секція 5",
-      "status": "available",
-      "flat_number": "70",
-      "explication": [
-        {
-          "name": "Передпокій",
-          "area": "10.91"
-        },
-        {
-          "name": "Кухня-вітальня",
-          "area": "17.95"
-        },
-        {
-          "name": "Лоджія",
-          "area": "4.91"
-        },
-        {
-          "name": "Санвузол",
-          "area": "5.52"
-        },
-        {
-          "name": "Спальня",
-          "area": "20.21"
-        },
-        {
-          "name": "Лоджія",
-          "area": "5.03"
-        },
-        {
-          "name": "Гардероб",
-          "area": "3.30"
-        },
-        {
-          "name": "Санвузол",
-          "area": "5.48"
-        },
-        {
-          "name": "Дитяча",
-          "area": "11.15"
-        }
-      ],
-      "area_living": "31.36"
-    },
-    {
-      "id": "33607_11",
-      "room_count": "4",
-      "area_total": "153.55",
-      "floor": "4",
-      "levels_count": "2",
-      "levels": [
-          {
-            "level_number": 1,
-            "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
-            "img_flat": "http://realbase.net/public/files/upload/153кв.м_1.png_661417_1630148866.png"
-          },
-          {
-            "level_number": 2,
-            "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
-            "img_flat": "http://realbase.net/public/files/upload/153кв.м_2.png_874449_1630148883.png"
-          }
-        ],
-      "price_total": "90327",
-      "price_m2": "588",
-      "house_id": "корпус №5",
-      "section_id": "Секція 1",
-      "status": "available",
-      "flat_number": "11",
-      "explication": [
-          {
-            "name": "Заголом 1-й поверх",
-            "area": "82.59"
-          },
-          {
-            "name": "Заголом 2-й поверх",
-            "area": "70.96"
-          },
-          {
-            "name": "Передпокій",
-            "area": "10.22"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "36.11"
-          },
-          {
-            "name": "Санвузол",
-            "area": "7.10"
-          },
-          {
-            "name": "Спальня",
-            "area": "25.76"
-          },
-          {
-            "name": "Лоджія",
-            "area": "11.34"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.85"
-          },
-          {
-            "name": "Дитяча",
-            "area": "12.42"
-          },
-          {
-            "name": "Дитяча",
-            "area": "16.98"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.09"
-          },
-          {
-            "name": "Санвузол",
-            "area": "7.16"
-          }
-        ],
-      "area_living": "74.25"
-    },
-    {
-      "id": "33608_12",
-      "room_count": "4",
-      "area_total": "161.24",
-      "floor": "4",
-      "levels_count": "2",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
-          "img_flat": "http://realbase.net/public/files/upload/161кв.м_1.png_106393_1630150273.png"
-        },
-        {
-          "level_number": 2,
-          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
-          "img_flat": "http://realbase.net/public/files/upload/161кв.м_2.png_371210_1630150382.png"
-        }
-      ],
-      "price_total": "98068",
-      "price_m2": "608",
-      "house_id": "Корпус №5",
-      "section_id": "Секція 1",
-      "status": "available",
-      "flat_number": "12",
-      "explication": [
-         {
-            "name": "1-й рівень",
-            "area": "95.92"
-          },
-          {
-            "name": "2-й рівень",
-            "area": "65.32"
-          }
-      ],
-      "area_living": "85.33"
-    },
-    {
-      "id": "33588_13",
-      "room_count": "2",
-      "area_total": "96.22",
-      "floor": "1",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
-          "img_flat": "http://realbase.net/public/files/upload/96.png_264741_1631784481.png"
-        }
-      ],
-      "price_total": "79863",
-      "price_m2": "830",
-      "house_id": "Корпус №5",
-      "section_id": "Секція 1",
-      "status": "available",
-      "flat_number": "2",
-      "explication": [
-      {
-            "name": "Передпокій",
-            "area": "8.08"
-          },
-          {
-            "name": "Кухня-вітальня ",
-            "area": "37.84"
-          },
-          {
-            "name": "Санвузол ",
-            "area": "7.14"
-          },
-          {
-            "name": "Дитяча",
-            "area": "13.27"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.76"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.28"
-          },
-          {
-            "name": "Санвузол",
-            "area": "3.85"
-          }
-      ],
-      "area_living": "34.03"
-    },
-    {
-      "id": "33604_14",
-      "room_count": "2",
-      "area_total": "96.22",
-      "floor": "2",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
-          "img_flat": "http://realbase.net/public/files/upload/96.png_264741_1631784481.png"
-        }
-      ],
-      "price_total": "81306",
-      "price_m2": "845",
-      "house_id": "Корпус №5",
-      "section_id": "Секція 1",
-      "status": "available",
-      "flat_number": "5",
-      "explication": [
-      {
-            "name": "Передпокій",
-            "area": "8.08"
-          },
-          {
-            "name": "Кухня-вітальня ",
-            "area": "37.84"
-          },
-          {
-            "name": "Санвузол ",
-            "area": "7.14"
-          },
-          {
-            "name": "Дитяча",
-            "area": "13.27"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.76"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.28"
-          },
-          {
-            "name": "Санвузол",
-            "area": "3.85"
-          }
-      ],
-      "area_living": "34.03"
-    },
-    {
-      "id": "30723",
-      "room_count": "2",
-      "area_total": "96.22",
-      "floor": "3",
-      "levels_count": "1",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/2%D0%91%D0%BB%D0%BE%D0%BA%20%D0%91%201-3%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_356650_1594365547.png",
-          "img_flat": "https://realbase.net/public/files/upload/4%D0%94-25.png_728353_1594369559.png"
-        }
-      ],
-      "price_total": "81306",
-      "price_m2": "845",
-      "house_id": "Корпус №4",
-      "section_id": "Секція 6",
-      "status": "available",
-      "flat_number": "84",
-      "explication": [
-      {
-            "name": "Передпокій",
-            "area": "8.08"
-          },
-          {
-            "name": "Кухня-вітальня ",
-            "area": "37.84"
-          },
-          {
-            "name": "Санвузол ",
-            "area": "7.14"
-          },
-          {
-            "name": "Дитяча",
-            "area": "13.27"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.76"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.28"
-          },
-          {
-            "name": "Санвузол",
-            "area": "3.85"
-          }
-      ],
-      "area_living": "34.03"
-    },
-    {
-      "id": "33798_15",
-      "room_count": "3",
-      "area_total": "164.88",
-      "floor": "4",
-      "levels_count": "2",
-      "levels": [
-        {
-          "level_number": 1,
-          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_336169_1608198040.png",
-          "img_flat": "http://realbase.net/public/files/upload/164_1.png_937882_1630416897.png"
-        },
-        {
-          "level_number": 2,
-          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_336169_1608198040.png",
-          "img_flat": "http://realbase.net/public/files/upload/164_2.png_329561_1630416906.png"
-        }
-      ],
-      "price_total": "96717",
-      "price_m2": "587",
-      "house_id": "Корпус №5",
-      "section_id": "Секція 2",
-      "status": "available",
-      "flat_number": "24",
-      "explication": [
-          {
-            "name": "1-й рівень",
-            "area": "87.90"
-          },
-          {
-            "name": "2-й рівень",
-            "area": "76.98"
-          }
-      ],
-      "area_living": "65.06"
-    },
-    {
       "id": "33654_16",
       "room_count": "3",
       "area_total": "136.07",
@@ -1173,59 +954,139 @@
       "flat_number": "34",
       "explication": [
         {
-            "name": " Загалом 1-й поверх",
-            "area": "74.52"
-          },
-          {
-            "name": " Загалом 2-й поверх",
-            "area": "61.55"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.17"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "25.18"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.52"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.40"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.46"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.54"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.91"
-          },
-          {
-            "name": "Спальня",
-            "area": "21.55"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.09"
-          }
+          "name": " Загалом 1-й поверх",
+          "area": "74.52"
+        },
+        {
+          "name": " Загалом 2-й поверх",
+          "area": "61.55"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.17"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "25.18"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.52"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.40"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.46"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.54"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.91"
+        },
+        {
+          "name": "Спальня",
+          "area": "21.55"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.09"
+        }
       ],
       "area_living": "61.89"
+    },
+    {
+      "id": "33655",
+      "room_count": "3",
+      "area_total": "132.92",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_286072_1608198105.png",
+          "img_flat": "https://realbase.net/public/files/upload/132%D0%BA%D0%B2.%D0%BC_%D0%B4%D0%BE%D0%BC5_1.png_884174_1630147129.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_286072_1608198105.png",
+          "img_flat": "https://realbase.net/public/files/upload/132%D0%BA%D0%B2.%D0%BC_%D0%B4%D0%BE%D0%BC5_2.png_714166_1630147150.png"
+        }
+      ],
+      "price_total": "78516",
+      "price_m2": "591",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 3",
+      "status": "available",
+      "flat_number": "35",
+      "explication": [
+        {
+          "name": " Загальна по 1-му рівню",
+          "area": "48.77"
+        },
+        {
+          "name": "Передпокій",
+          "area": "6.22"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "33.57"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.95"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.03"
+        },
+        {
+          "name": " Загальна по 2-му рівню",
+          "area": "84.23"
+        },
+        {
+          "name": "Передпокій ",
+          "area": "5.19"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "18.68"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "17.10"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "32.20"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.04"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.56"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        }
+      ],
+      "area_living": "67.98"
     },
     {
       "id": "33656_17",
@@ -1252,72 +1113,119 @@
       "status": "available",
       "flat_number": "36",
       "explication": [
-          {
-            "name": "1-й рівень",
-            "area": "79.53"
-          },
-          {
-            "name": "2-й рівень",
-            "area": "64.93"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.17"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "24.96"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.91"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.52"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.46"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.40"
-          },
-          {
-            "name": "Передпокій 2-й поверх",
-            "area": "11.96"
-          },
-          {
-            "name": "Дитяча",
-            "area": "19.91"
-          },
-          {
-            "name": "Дитяча",
-            "area": "51.54"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.66"
-          },
-          {
-            "name": "Гардероб",
-            "area": "8.40"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.46"
-          }
+        {
+          "name": "1-й рівень",
+          "area": "79.53"
+        },
+        {
+          "name": "2-й рівень",
+          "area": "64.93"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.17"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.96"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.91"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.52"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.46"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.40"
+        },
+        {
+          "name": "Передпокій 2-й поверх",
+          "area": "11.96"
+        },
+        {
+          "name": "Дитяча",
+          "area": "19.91"
+        },
+        {
+          "name": "Дитяча",
+          "area": "51.54"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.66"
+        },
+        {
+          "name": "Гардероб",
+          "area": "8.40"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        }
       ],
       "area_living": "55.88"
+    },
+    {
+      "id": "33673",
+      "room_count": "1",
+      "area_total": "51.48",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
+          "img_flat": "https://realbase.net/public/files/upload/%D0%A2%D0%B8%D0%BF%2018%D0%9A1%20%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_470186_1608299059.png"
+        }
+      ],
+      "price_total": "50000",
+      "price_m2": "971",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 4",
+      "status": "available",
+      "flat_number": "38",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.82"
+        },
+        {
+          "name": "Гардеробна",
+          "area": "2.51"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "18.86"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.03"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.73"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.44"
+        }
+      ],
+      "area_living": "15.73"
     },
     {
       "id": "33660_18",
@@ -1344,70 +1252,70 @@
       "status": "available",
       "flat_number": "46",
       "explication": [
-          {
-            "name": "1-й рівень",
-            "area": "79.53"
-          },
-          {
-            "name": "2-й рівень",
-            "area": "64.93"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.17"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "24.96"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.91"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.52"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.46"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.40"
-          },
-          {
-            "name": "Передпокій 2-й поверх",
-            "area": "11.96"
-          },
-          {
-            "name": "Дитяча",
-            "area": "19.91"
-          },
-          {
-            "name": "Дитяча",
-            "area": "51.54"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.66"
-          },
-          {
-            "name": "Гардероб",
-            "area": "8.40"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.46"
-          }
+        {
+          "name": "1-й рівень",
+          "area": "79.53"
+        },
+        {
+          "name": "2-й рівень",
+          "area": "64.93"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.17"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.96"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.91"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.52"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.46"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.40"
+        },
+        {
+          "name": "Передпокій 2-й поверх",
+          "area": "11.96"
+        },
+        {
+          "name": "Дитяча",
+          "area": "19.91"
+        },
+        {
+          "name": "Дитяча",
+          "area": "51.54"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.66"
+        },
+        {
+          "name": "Гардероб",
+          "area": "8.40"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        }
       ],
       "area_living": "55.88"
     },
@@ -1437,57 +1345,57 @@
       "flat_number": "48",
       "explication": [
         {
-            "name": " Загалом 1-й поверх",
-            "area": "74.52"
-          },
-          {
-            "name": " Загалом 2-й поверх",
-            "area": "61.55"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.17"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "25.18"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.52"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.40"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.46"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.54"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.91"
-          },
-          {
-            "name": "Спальня",
-            "area": "21.55"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.09"
-          }
+          "name": " Загалом 1-й поверх",
+          "area": "74.52"
+        },
+        {
+          "name": " Загалом 2-й поверх",
+          "area": "61.55"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.17"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "25.18"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.52"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.40"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.46"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.54"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.91"
+        },
+        {
+          "name": "Спальня",
+          "area": "21.55"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.09"
+        }
       ],
       "area_living": "61.89"
     },
@@ -1511,34 +1419,34 @@
       "status": "available",
       "flat_number": "49",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "12.17"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "24.53"
-          },
-          {
-            "name": "Дитяча",
-            "area": "14.77"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.75"
-          },
-          {
-            "name": "Спальня",
-            "area": "18.64"
-          },
-          {
-            "name": "Гардероб",
-            "area": "4.11"
-          },
-          {
-            "name": "Санвузол",
-            "area": "6.70"
-          }
+        {
+          "name": "Передпокій",
+          "area": "12.17"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.53"
+        },
+        {
+          "name": "Дитяча",
+          "area": "14.77"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.75"
+        },
+        {
+          "name": "Спальня",
+          "area": "18.64"
+        },
+        {
+          "name": "Гардероб",
+          "area": "4.11"
+        },
+        {
+          "name": "Санвузол",
+          "area": "6.70"
+        }
       ],
       "area_living": "33.14"
     },
@@ -1567,14 +1475,14 @@
       "status": "available",
       "flat_number": "58",
       "explication": [
-          {
-            "name": "1-й рівень",
-            "area": "87.90"
-          },
-          {
-            "name": "2-й рівень",
-            "area": "76.98"
-          }
+        {
+          "name": "1-й рівень",
+          "area": "87.90"
+        },
+        {
+          "name": "2-й рівень",
+          "area": "76.98"
+        }
       ],
       "area_living": "65.06"
     },
@@ -1603,14 +1511,14 @@
       "status": "available",
       "flat_number": "59",
       "explication": [
-          {
-            "name": "1-й півень",
-            "area": "70.8"
-          },
-          {
-            "name": "2-й рівень",
-            "area": "87.74"
-          }
+        {
+          "name": "1-й півень",
+          "area": "70.8"
+        },
+        {
+          "name": "2-й рівень",
+          "area": "87.74"
+        }
       ],
       "area_living": "75.96"
     },
@@ -1634,32 +1542,83 @@
       "status": "available",
       "flat_number": "61",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "5.92"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "34.69"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.44"
-          },
-          {
-            "name": "Дитяча",
-            "area": "21.62"
-          },
-          {
-            "name": "Спальня",
-            "area": "24.46"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.74"
-          }
+        {
+          "name": "Передпокій",
+          "area": "5.92"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "34.69"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.44"
+        },
+        {
+          "name": "Дитяча",
+          "area": "21.62"
+        },
+        {
+          "name": "Спальня",
+          "area": "24.46"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.74"
+        }
       ],
       "area_living": "46.08"
+    },
+    {
+      "id": "33703",
+      "room_count": "2",
+      "area_total": "96.22",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "http://realbase.net/public/files/upload/96.png_264741_1631784481.png"
+        }
+      ],
+      "price_total": "79863",
+      "price_m2": "830",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 6",
+      "status": "available",
+      "flat_number": "62",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.08"
+        },
+        {
+          "name": "Кухня-вітальня ",
+          "area": "37.84"
+        },
+        {
+          "name": "Санвузол ",
+          "area": "7.14"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.27"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.85"
+        }
+      ],
+      "area_living": "34.03"
     },
     {
       "id": "33690_24",
@@ -1686,62 +1645,62 @@
       "status": "available",
       "flat_number": "70",
       "explication": [
-          {
-            "name": "Загалом 1-й поверх",
-            "area": "95.92"
-          },
-          {
-            "name": "Загалом 2-й поверх",
-            "area": "65.32"
-          },
-          {
-            "name": "Передпокій",
-            "area": "5.92"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "32.27"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.44"
-          },
-          {
-            "name": "Житлова кімната",
-            "area": "21.62"
-          },
-          {
-            "name": "Житлова кімната",
-            "area": "20.34"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.30"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.16"
-          },
-          {
-            "name": "Санвузол",
-            "area": "5.48"
-          },
-          {
-            "name": "Передпокій",
-            "area": "9.92"
-          },
-          {
-            "name": "Житлова кімната",
-            "area": "20.49"
-          },
-          {
-            "name": "Житлова кімната",
-            "area": "22.88"
-          },
-          {
-            "name": "Санвузол",
-            "area": "8.45"
-          }
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "95.92"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "65.32"
+        },
+        {
+          "name": "Передпокій",
+          "area": "5.92"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "32.27"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.44"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "21.62"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "20.34"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.30"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.16"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.48"
+        },
+        {
+          "name": "Передпокій",
+          "area": "9.92"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "20.49"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "22.88"
+        },
+        {
+          "name": "Санвузол",
+          "area": "8.45"
+        }
       ],
       "area_living": "85.33"
     },
@@ -1770,56 +1729,183 @@
       "status": "available",
       "flat_number": "71",
       "explication": [
-      {
-            "name": "Заголом 1-й поверх",
-            "area": "82.59"
-          },
-          {
-            "name": "Заголом 2-й поверх",
-            "area": "70.96"
-          },
-          {
-            "name": "Передпокій",
-            "area": "10.22"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "36.11"
-          },
-          {
-            "name": "Санвузол",
-            "area": "7.10"
-          },
-          {
-            "name": "Спальня",
-            "area": "25.76"
-          },
-          {
-            "name": "Лоджія",
-            "area": "11.34"
-          },
-          {
-            "name": "Передпокій",
-            "area": "11.85"
-          },
-          {
-            "name": "Дитяча",
-            "area": "12.42"
-          },
-          {
-            "name": "Дитяча",
-            "area": "16.98"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.09"
-          },
-          {
-            "name": "Санвузол",
-            "area": "7.16"
-          }
+        {
+          "name": "Заголом 1-й поверх",
+          "area": "82.59"
+        },
+        {
+          "name": "Заголом 2-й поверх",
+          "area": "70.96"
+        },
+        {
+          "name": "Передпокій",
+          "area": "10.22"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "36.11"
+        },
+        {
+          "name": "Санвузол",
+          "area": "7.10"
+        },
+        {
+          "name": "Спальня",
+          "area": "25.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "11.34"
+        },
+        {
+          "name": "Передпокій",
+          "area": "11.85"
+        },
+        {
+          "name": "Дитяча",
+          "area": "12.42"
+        },
+        {
+          "name": "Дитяча",
+          "area": "16.98"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.09"
+        },
+        {
+          "name": "Санвузол",
+          "area": "7.16"
+        }
       ],
       "area_living": "74.25"
+    },
+    {
+      "id": "29405",
+      "room_count": "1",
+      "area_total": "45.63",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom2.png_751767_1670274733.png",
+          "img_flat": "https://realbase.net/public/files/upload/45,63.png_888228_1630833531.png"
+        }
+      ],
+      "price_total": "48000",
+      "price_m2": "1052",
+      "house_id": "Корпус №6",
+      "section_id": "Секція 3",
+      "status": "available",
+      "flat_number": "41",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.39"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.42"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        }
+      ],
+      "area_living": "15.42"
+    },
+    {
+      "id": "29401",
+      "room_count": "3",
+      "area_total": "117.87",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom2_4.png_60889_1666208876.png",
+          "img_flat": "http://realbase.net/public/files/upload/113кв.м._1.png_887857_1630404452.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://realbase.net/public/files/upload/dom2_4.png_60889_1666208876.png",
+          "img_flat": "http://realbase.net/public/files/upload/113кв.м._2.png_486338_1630404466.png"
+        }
+      ],
+      "price_total": "66187",
+      "price_m2": "562",
+      "house_id": "Корпус №6",
+      "section_id": "Секція 3",
+      "status": "available",
+      "flat_number": "46",
+      "explication": [
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "66.0"
+        },
+        {
+          "name": "Передпокій",
+          "area": "5.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "16.18"
+        },
+        {
+          "name": "Вітальня",
+          "area": "12.04"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "3.49"
+        },
+        {
+          "name": "Кладова",
+          "area": "3.33"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.08"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "51.87"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.82"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "8.95"
+        },
+        {
+          "name": "Дитяча ",
+          "area": "15.92"
+        },
+        {
+          "name": "Хол",
+          "area": "5.72"
+        }
+      ],
+      "area_living": "50.82"
     },
     {
       "id": "34423_26",
@@ -1847,65 +1933,65 @@
       "flat_number": "15",
       "explication": [
         {
-            "name": "Передпокій",
-            "area": "4.77"
-          },
-          {
-            "name": "С/в",
-            "area": "3.49"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "16.57"
-          },
-          {
-            "name": "Вітальня",
-            "area": "12.27"
-          },
-          {
-            "name": "Хол",
-            "area": "9.50"
-          },
-          {
-            "name": "Дитяча",
-            "area": "11.19"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.65"
-          },
-          {
-            "name": "Спальня №1",
-            "area": "21.62"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.58"
-          },
-          {
-            "name": "Хол",
-            "area": "9.92"
-          },
-          {
-            "name": "Спальня №3",
-            "area": "20.49"
-          },
-          {
-            "name": "Дитяча",
-            "area": "22.88"
-          },
-          {
-            "name": "С/в",
-            "area": "8.45"
-          },
-          {
-            "name": "Загалом 1-й поверх",
-            "area": "84.06"
-          },
-          {
-            "name": "Загалом 2-й поверх",
-            "area": "54.78"
-          }
+          "name": "Передпокій",
+          "area": "4.77"
+        },
+        {
+          "name": "С/в",
+          "area": "3.49"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "16.57"
+        },
+        {
+          "name": "Вітальня",
+          "area": "12.27"
+        },
+        {
+          "name": "Хол",
+          "area": "9.50"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.19"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        },
+        {
+          "name": "Спальня №1",
+          "area": "21.62"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.58"
+        },
+        {
+          "name": "Хол",
+          "area": "9.92"
+        },
+        {
+          "name": "Спальня №3",
+          "area": "20.49"
+        },
+        {
+          "name": "Дитяча",
+          "area": "22.88"
+        },
+        {
+          "name": "С/в",
+          "area": "8.45"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "84.06"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "54.78"
+        }
       ],
       "area_living": "68.10"
     },
@@ -1929,38 +2015,38 @@
       "status": "available",
       "flat_number": "18",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "3.68"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "22.74"
-          },
-          {
-            "name": "Гардероб",
-            "area": "5.35"
-          },
-          {
-            "name": "С/в",
-            "area": "4.12"
-          },
-          {
-            "name": "Туалет",
-            "area": "2.63"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.64"
-          },
-          {
-            "name": "Спальня",
-            "area": "17.07"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.48"
-          }
+        {
+          "name": "Передпокій",
+          "area": "3.68"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "22.74"
+        },
+        {
+          "name": "Гардероб",
+          "area": "5.35"
+        },
+        {
+          "name": "С/в",
+          "area": "4.12"
+        },
+        {
+          "name": "Туалет",
+          "area": "2.63"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.64"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.07"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.48"
+        }
       ],
       "area_living": "36.31"
     },
@@ -1984,42 +2070,42 @@
       "status": "available",
       "flat_number": "22",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "11.63"
-          },
-          {
-            "name": "Гардероб",
-            "area": "4.54"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "19.56"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.54"
-          },
-          {
-            "name": "Спальня",
-            "area": "14.67"
-          },
-          {
-            "name": "С/в",
-            "area": "5.64"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.73"
-          },
-          {
-            "name": "С/в",
-            "area": "6.70"
-          },
-          {
-            "name": "Гардероб",
-            "area": "4.54"
-          }
+        {
+          "name": "Передпокій",
+          "area": "11.63"
+        },
+        {
+          "name": "Гардероб",
+          "area": "4.54"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "19.56"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        },
+        {
+          "name": "Спальня",
+          "area": "14.67"
+        },
+        {
+          "name": "С/в",
+          "area": "5.64"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.73"
+        },
+        {
+          "name": "С/в",
+          "area": "6.70"
+        },
+        {
+          "name": "Гардероб",
+          "area": "4.54"
+        }
       ],
       "area_living": "34.40"
     },
@@ -2043,26 +2129,26 @@
       "status": "available",
       "flat_number": "23",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "4.90"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "20.22"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.54"
-          },
-          {
-            "name": "Спальня",
-            "area": "17.46"
-          },
-          {
-            "name": "С/в",
-            "area": "4.98"
-          }
+        {
+          "name": "Передпокій",
+          "area": "4.90"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "20.22"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.46"
+        },
+        {
+          "name": "С/в",
+          "area": "4.98"
+        }
       ],
       "area_living": "17.46"
     },
@@ -2086,42 +2172,42 @@
       "status": "available",
       "flat_number": "31",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "10.91"
-          },
-          {
-            "name": "С/в",
-            "area": "5.55"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "17.57"
-          },
-          {
-            "name": "Дитяча",
-            "area": "11.18"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.91"
-          },
-          {
-            "name": "Спальня",
-            "area": "19.90"
-          },
-          {
-            "name": "Лоджія",
-            "area": "5.03"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.30"
-          },
-          {
-            "name": "С/в",
-            "area": "5.48"
-          }
+        {
+          "name": "Передпокій",
+          "area": "10.91"
+        },
+        {
+          "name": "С/в",
+          "area": "5.55"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.57"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.18"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.91"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.90"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.03"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.30"
+        },
+        {
+          "name": "С/в",
+          "area": "5.48"
+        }
       ],
       "area_living": "31.08"
     },
@@ -2150,74 +2236,74 @@
       "status": "available",
       "flat_number": "44",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "5.21"
-          },
-          {
-            "name": "С/в",
-            "area": "5.52"
-          },
-          {
-            "name": "Хол",
-            "area": "5.96"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "24.96"
-          },
-          {
-            "name": "Кладова",
-            "area": "1.78"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.91"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "С/в",
-            "area": "5.46"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Балкон",
-            "area": "1.62"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.46"
-          },
-          {
-            "name": "Хол",
-            "area": "11.54"
-          },
-          {
-            "name": "Дитяча №1",
-            "area": "19.91"
-          },
-          {
-            "name": "Дитяча №2",
-            "area": "21.55"
-          },
-          {
-            "name": "С/в",
-            "area": "5.09"
-          },
-          {
-            "name": "Загалом 1-й поверх",
-            "area": "79.21"
-          },
-          {
-            "name": "Загалом 2-й поверх",
-            "area": "61.55"
-          }
+        {
+          "name": "Передпокій",
+          "area": "5.21"
+        },
+        {
+          "name": "С/в",
+          "area": "5.52"
+        },
+        {
+          "name": "Хол",
+          "area": "5.96"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "24.96"
+        },
+        {
+          "name": "Кладова",
+          "area": "1.78"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.91"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "С/в",
+          "area": "5.46"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Балкон",
+          "area": "1.62"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "11.54"
+        },
+        {
+          "name": "Дитяча №1",
+          "area": "19.91"
+        },
+        {
+          "name": "Дитяча №2",
+          "area": "21.55"
+        },
+        {
+          "name": "С/в",
+          "area": "5.09"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "79.21"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "61.55"
+        }
       ],
       "area_living": "61.89"
     },
@@ -2247,77 +2333,77 @@
       "flat_number": "46",
       "explication": [
         {
-            "name": "Передпокій",
-            "area": "5.21"
-          },
-          {
-            "name": "С/в",
-            "area": "5.52"
-          },
-          {
-            "name": "Хол",
-            "area": "5.96"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "24.96"
-          },
-          {
-            "name": "Кладова",
-            "area": "1.78"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.91"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "С/в",
-            "area": "5.46"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Балкон",
-            "area": "1.62"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.46"
-          },
-          {
-            "name": "Хол",
-            "area": "11.96"
-          },
-          {
-            "name": "Дитяча №1",
-            "area": "19.91"
-          },
-          {
-            "name": "Дитяча №2",
-            "area": "15.54"
-          },
-          {
-            "name": "С/в",
-            "area": "5.66"
-          },
-          {
-            "name": "Гардероб",
-            "area": "8.40"
-          },
-          {
-            "name": "Загалом 1-й поверх",
-            "area": "79.21"
-          },
-          {
-            "name": "Загалом 2-й поверх",
-            "area": "64.93"
-          }
+          "name": "Передпокій",
+          "area": "5.21"
+        },
+        {
+          "name": "С/в",
+          "area": "5.52"
+        },
+        {
+          "name": "Хол",
+          "area": "5.96"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "24.96"
+        },
+        {
+          "name": "Кладова",
+          "area": "1.78"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.91"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "С/в",
+          "area": "5.46"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Балкон",
+          "area": "1.62"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "11.96"
+        },
+        {
+          "name": "Дитяча №1",
+          "area": "19.91"
+        },
+        {
+          "name": "Дитяча №2",
+          "area": "15.54"
+        },
+        {
+          "name": "С/в",
+          "area": "5.66"
+        },
+        {
+          "name": "Гардероб",
+          "area": "8.40"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "79.21"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "64.93"
+        }
       ],
       "area_living": "55.88"
     },
@@ -2347,61 +2433,61 @@
       "flat_number": "54",
       "explication": [
         {
-            "name": "Передпокій",
-            "area": "10.22"
-          },
-          {
-            "name": "С/в",
-            "area": "7.10"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "18.31"
-          },
-          {
-            "name": "Вітальня",
-            "area": "17.80"
-          },
-          {
-            "name": "Спальня",
-            "area": "25.76"
-          },
-          {
-            "name": "Тераса",
-            "area": "3.40"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.46"
-          },
-          {
-            "name": "Хол",
-            "area": "11.85"
-          },
-          {
-            "name": "С/в",
-            "area": "7.16"
-          },
-          {
-            "name": "Дитяча №1",
-            "area": "16.98"
-          },
-          {
-            "name": "Дитяча №2",
-            "area": "12.42"
-          },
-          {
-            "name": "Дитяча №3",
-            "area": "19.09"
-          },
-          {
-            "name": "Загалом 1-й поверх",
-            "area": "82.59"
-          },
-          {
-            "name": "Загалом 2-й поверх",
-            "area": "70.96"
-          }
+          "name": "Передпокій",
+          "area": "10.22"
+        },
+        {
+          "name": "С/в",
+          "area": "7.10"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "18.31"
+        },
+        {
+          "name": "Вітальня",
+          "area": "17.80"
+        },
+        {
+          "name": "Спальня",
+          "area": "25.76"
+        },
+        {
+          "name": "Тераса",
+          "area": "3.40"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "11.85"
+        },
+        {
+          "name": "С/в",
+          "area": "7.16"
+        },
+        {
+          "name": "Дитяча №1",
+          "area": "16.98"
+        },
+        {
+          "name": "Дитяча №2",
+          "area": "12.42"
+        },
+        {
+          "name": "Дитяча №3",
+          "area": "19.09"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "82.59"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "70.96"
+        }
       ],
       "area_living": "74.25"
     },
@@ -2431,134 +2517,261 @@
       "flat_number": "55",
       "explication": [
         {
-            "name": "Передпокій",
-            "area": "5.21"
-          },
-          {
-            "name": "С/в",
-            "area": "5.52"
-          },
-          {
-            "name": "Хол",
-            "area": "5.96"
-          },
-          {
-            "name": "Кухня-столова",
-            "area": "24.96"
-          },
-          {
-            "name": "Кладова",
-            "area": "1.78"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.91"
-          },
-          {
-            "name": "Спальня",
-            "area": "20.43"
-          },
-          {
-            "name": "С/в",
-            "area": "5.46"
-          },
-          {
-            "name": "Гардероб",
-            "area": "3.36"
-          },
-          {
-            "name": "Балкон",
-            "area": "1.62"
-          },
-          {
-            "name": "Сходи",
-            "area": "3.46"
-          },
-          {
-            "name": "Хол",
-            "area": "11.96"
-          },
-          {
-            "name": "Дитяча №1",
-            "area": "19.91"
-          },
-          {
-            "name": "Дитяча №2",
-            "area": "15.54"
-          },
-          {
-            "name": "С/в",
-            "area": "5.66"
-          },
-          {
-            "name": "Гардероб",
-            "area": "8.40"
-          },
-          {
-            "name": "Загалом 1-й поверх",
-            "area": "79.21"
-          },
-          {
-            "name": "Загалом 2-й поверх",
-            "area": "64.93"
-          }
+          "name": "Передпокій",
+          "area": "5.21"
+        },
+        {
+          "name": "С/в",
+          "area": "5.52"
+        },
+        {
+          "name": "Хол",
+          "area": "5.96"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "24.96"
+        },
+        {
+          "name": "Кладова",
+          "area": "1.78"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.91"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.43"
+        },
+        {
+          "name": "С/в",
+          "area": "5.46"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.36"
+        },
+        {
+          "name": "Балкон",
+          "area": "1.62"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "11.96"
+        },
+        {
+          "name": "Дитяча №1",
+          "area": "19.91"
+        },
+        {
+          "name": "Дитяча №2",
+          "area": "15.54"
+        },
+        {
+          "name": "С/в",
+          "area": "5.66"
+        },
+        {
+          "name": "Гардероб",
+          "area": "8.40"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "79.21"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "64.93"
+        }
       ],
       "area_living": "55.88"
     },
     {
-      "id": "29288_34",
+      "id": "29166_2",
       "room_count": "2",
-      "area_total": "65.60",
-      "floor": "3",
+      "area_total": "78.23",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/второй-01.png_56656_1574359831.png",
+          "img_flat": "http://realbase.net/public/files/upload/Тип 10-1-1У.png_670881_1574344043.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "http://realbase.net/public/files/upload/второй-01.png_56656_1574359831.png",
+          "img_flat": "http://realbase.net/public/files/upload/Тип 10-1-2У.png_547642_1574344063.png"
+        }
+      ],
+      "price_total": "57318",
+      "price_m2": "733",
+      "house_id": "Корпус №8",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "16",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.35"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "3.62"
+        },
+        {
+          "name": "Спальня",
+          "area": "13.07"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "5.68"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "8.54"
+        },
+        {
+          "name": "Дитяча",
+          "area": "17.72"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "42.83"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "35.40"
+        }
+      ],
+      "area_living": "30.79"
+    },
+    {
+      "id": "29196",
+      "room_count": "2",
+      "area_total": "66.98",
+      "floor": "1",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
-          "img_floor": "https://realbase.net/public/files/upload/dom2.png_875392_1667418405.png",
-          "img_flat": "https://realbase.net/public/files/upload/65,6.jpg_414898_1667418615.jpg"
+          "img_floor": "https://realbase.net/public/files/upload/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86-01.png_461787_1574359739.png",
+          "img_flat": "https://realbase.net/public/files/upload/67_1.png_111288_1630228044.png"
         }
       ],
-      "price_total": "55000",
-      "price_m2": "838",
-      "house_id": "Корпус №2",
-      "section_id": "Секція 4",
+      "price_total": "65000",
+      "price_m2": "970",
+      "house_id": "Корпус №9",
+      "section_id": "Секція 1",
       "status": "available",
-      "flat_number": "31",
+      "flat_number": "2",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "5.47"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "17.99"
-          },
-          {
-            "name": "С/в 1",
-            "area": "2.14"
-          },
-          {
-            "name": "Коридор",
-            "area": "3.22"
-          },
-          {
-            "name": "Дитяча",
-            "area": "10.00"
-          },
-          {
-            "name": "С/в 2",
-            "area": "3.95"
-          },
-          {
-            "name": "Спальня",
-            "area": "17.88"
-          },
-          {
-            "name": "Лоджія",
-            "area": "4.95"
-          }
+        {
+          "name": "Передпокій",
+          "area": "4.55"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.28"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "1.88"
+        },
+        {
+          "name": "Коридор",
+          "area": "3.62"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.02"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "4.20"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.15"
+        }
       ],
-      "area_living": "27.88"
+      "area_living": "30.17"
+    },
+    {
+      "id": "29166_3",
+      "room_count": "2",
+      "area_total": "63.59",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom9_2.png_720079_1666210371.png",
+          "img_flat": "http://realbase.net/public/files/upload/Тип 5-1.png_235253_1574701914.png"
+        }
+      ],
+      "price_total": "55641",
+      "price_m2": "875",
+      "house_id": "Корпус №9",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "7",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "5.37"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "17.89"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "2.04"
+        },
+        {
+          "name": "Коридор",
+          "area": "2.69"
+        },
+        {
+          "name": "Дитяча",
+          "area": "10.00"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "3.85"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.10"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        }
+      ],
+      "area_living": "27.10"
     },
     {
       "id": "29216",
@@ -2580,34 +2793,89 @@
       "status": "available",
       "flat_number": "18",
       "explication": [
-          {
-            "name": "Передпокій",
-            "area": "3.95"
-          },
-          {
-            "name": "Кухня-вітальня",
-            "area": "17.89"
-          },
-          {
-            "name": "С/в 1",
-            "area": "1.88"
-          },
-          {
-            "name": "Коридор",
-            "area": "2.69"
-          },
-          {
-            "name": "Дитяча",
-            "area": "10.00"
-          },
-          {
-            "name": "С/в 2",
-            "area": "3.85"
-          },
-          {
-            "name": "Спальня",
-            "area": "17.10"
-          }
+        {
+          "name": "Передпокій",
+          "area": "3.95"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.89"
+        },
+        {
+          "name": "С/в 1",
+          "area": "1.88"
+        },
+        {
+          "name": "Коридор",
+          "area": "2.69"
+        },
+        {
+          "name": "Дитяча",
+          "area": "10.00"
+        },
+        {
+          "name": "С/в 2",
+          "area": "3.85"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.10"
+        }
+      ],
+      "area_living": "27.10"
+    },
+    {
+      "id": "29220",
+      "room_count": "2",
+      "area_total": "63.59",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom9_2.png_720079_1666210371.png",
+          "img_flat": "https://realbase.net/public/files/upload/65,6.jpg_414898_1667418615.jpg"
+        }
+      ],
+      "price_total": "55641",
+      "price_m2": "875",
+      "house_id": "Корпус №9",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "22",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "5.37"
+        },
+        {
+          "name": "Кухня-столова",
+          "area": "17.89"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "2.04"
+        },
+        {
+          "name": "Коридор",
+          "area": "2.69"
+        },
+        {
+          "name": "Дитяча",
+          "area": "10.00"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "3.85"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.10"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        }
       ],
       "area_living": "27.10"
     }
