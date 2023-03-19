@@ -1,5 +1,5 @@
 {
-  "generation_time": "2023-02-23 19:00:00",
+  "generation_time": "2023-03-19 19:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -288,6 +288,53 @@
         {
           "name": "Спальня",
           "area": "15.42"
+        }
+      ],
+      "area_living": "15.42"
+    },
+    {
+      "id": 29282,
+      "room_count": "1",
+      "area_total": "51.00",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom2_3.png_489366_1677184085.png",
+          "img_flat": "https://realbase.net/public/files/upload/50,06_2.png_883427_1638885030.png"
+        }
+      ],
+      "price_total": "43000",
+      "price_m2": "843",
+      "house_id": "Корпус №2",
+      "section_id": "Секція 4",
+      "status": "available",
+      "flat_number": "56",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "2.85"
+        },
+        {
+          "name": "Кухня",
+          "area": "14.91"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.97"
+        },
+        {
+          "name": "Коридор",
+          "area": "4.63"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.42"
         }
       ],
       "area_living": "15.42"
@@ -3444,7 +3491,7 @@
       "price_m2": "734",
       "house_id": "Корпус №8",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "16",
       "explication": [
         {
@@ -3566,7 +3613,7 @@
       "price_m2": "865",
       "house_id": "Корпус №9",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "7",
       "explication": [
         {
