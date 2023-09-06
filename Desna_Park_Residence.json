@@ -1,5 +1,5 @@
 {
-  "generation_time": "2023-07-20 12:00:00",
+  "generation_time": "2023-09-06 19:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -21,8 +21,8 @@
           "img_flat": "https://realbase.net/public/files/upload/109_2.png_549755_1677180886.png"
         }
       ],
-      "price_total": "84000",
-      "price_m2": "764",
+      "price_total": "82000",
+      "price_m2": "746",
       "house_id": "Корпус №1",
       "section_id": "Секція 2",
       "status": "available",
@@ -634,7 +634,7 @@
       "price_m2": "836",
       "house_id": "Корпус №4",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "2",
       "explication": [
         {
@@ -792,6 +792,90 @@
         }
       ],
       "area_living": "16.18"
+    },
+    {
+      "id": "446",
+      "room_count": "3",
+      "area_total": "118.07",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521694-1693583208.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521694-1693583208.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://realbase.net/public/files/upload/dom2_4.png_60889_1666208876.png",
+          "img_flat": "http://realbase.net/public/files/upload/113кв.м._2.png_486338_1630404466.png"
+        }
+      ],
+      "price_total": "82000",
+      "price_m2": "695",
+      "house_id": "Корпус №4",
+      "section_id": "Секція 3",
+      "status": "available",
+      "flat_number": "46",
+      "explication": [
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "65.8"
+        },
+        {
+          "name": "Передпокій",
+          "area": "5.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "16.18"
+        },
+        {
+          "name": "Вітальня",
+          "area": "12.04"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "3.49"
+        },
+        {
+          "name": "Кладова",
+          "area": "3.33"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.08"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "54.6"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.82"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "8.95"
+        },
+        {
+          "name": "Дитяча ",
+          "area": "15.92"
+        },
+        {
+          "name": "Хол",
+          "area": "5.72"
+        }
+      ],
+      "area_living": "50.82"
     },
     {
       "id": "30686_4",
@@ -2402,11 +2486,11 @@
           "img_flat": "http://realbase.net/public/files/upload/96.png_264741_1631784481.png"
         }
       ],
-      "price_total": "85000",
-      "price_m2": "901",
+      "price_total": "82000",
+      "price_m2": "870",
       "house_id": "Корпус №5",
       "section_id": "Секція 6",
-      "status": "sold",
+      "status": "available",
       "flat_number": "62",
       "explication": [
         {
@@ -2439,6 +2523,53 @@
         }
       ],
       "area_living": "34.03"
+    },
+    {
+      "id": 563,
+      "room_count": "1",
+      "area_total": "49.00",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521767-1693593899.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521767-1693593899.png"
+        }
+      ],
+      "price_total": "50000",
+      "price_m2": "1020",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 6",
+      "status": "available",
+      "flat_number": "63",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "2.85"
+        },
+        {
+          "name": "Кухня",
+          "area": "14.91"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.97"
+        },
+        {
+          "name": "Коридор",
+          "area": "4.63"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.18"
+        }
+      ],
+      "area_living": "15.18"
     },
     {
       "id": "33690_24",
@@ -2939,6 +3070,61 @@
       "area_living": "30.15"
     },
     {
+      "id": 711,
+      "room_count": "2",
+      "area_total": "84.77",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521851-1693585760.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521851-1693585760.png"
+        }
+      ],
+      "price_total": "70000",
+      "price_m2": "824",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "11",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.18"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.11"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.84"
+        },
+        {
+          "name": "С/в",
+          "area": "2.04"
+        },
+        {
+          "name": "С/в 2",
+          "area": "4.91"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "21.62"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "17.75"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        }
+      ],
+      "area_living": "39.37"
+    },
+    {
       "id": "34423_26",
       "room_count": "4",
       "area_total": "138.84",
@@ -3080,6 +3266,57 @@
         }
       ],
       "area_living": "36.31"
+    },
+    {
+      "id": 719,
+      "room_count": "2",
+      "area_total": "86.67",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521859-1693593128.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521859-1693593128.png"
+        }
+      ],
+      "price_total": "75000",
+      "price_m2": "865",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "19",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "12.17"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.53"
+        },
+        {
+          "name": "Дитяча",
+          "area": "14.77"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.75"
+        },
+        {
+          "name": "Спальня",
+          "area": "18.64"
+        },
+        {
+          "name": "Гардероб",
+          "area": "4.11"
+        },
+        {
+          "name": "Санвузол",
+          "area": "6.70"
+        }
+      ],
+      "area_living": "33.14"
     },
     {
       "id": "34528_28",
