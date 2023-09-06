@@ -2300,6 +2300,49 @@
       "area_living": "31.34"
     },
     {
+      "id": "554",
+      "room_count": "1",
+      "area_total": "53.50",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521758-1689772996.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521758-1689772996.png"
+        }
+      ],
+      "price_total": "48500",
+      "price_m2": "907",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 5",
+      "status": "available",
+      "flat_number": "54",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.90"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "20.22"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.46"
+        },
+        {
+          "name": "С/в",
+          "area": "4.98"
+        }
+      ],
+      "area_living": "17.46"
+    },
+    {
       "id": 33682,
       "room_count": "2",
       "area_total": "75.60",
