@@ -1,5 +1,5 @@
 {
-  "generation_time": "2023-09-24 19:00:00",
+  "generation_time": "2023-10-02 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -3179,6 +3179,45 @@
         }
       ],
       "area_living": "30.15"
+    },
+    {
+      "id": 704,
+      "room_count": "1",
+      "area_total": "45.16",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom2_1.png_814371_1670274245.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521844-1695821725.png"
+        }
+      ],
+      "price_total": "40000",
+      "price_m2": "886",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "4",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "21.10"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.39"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.42"
+        }
+      ],
+      "area_living": "15.42"
     },
     {
       "id": 711,
