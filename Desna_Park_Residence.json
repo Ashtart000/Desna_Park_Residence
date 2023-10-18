@@ -1,5 +1,5 @@
 {
-  "generation_time": "2023-10-02 09:00:00",
+  "generation_time": "2023-10-19 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -1362,7 +1362,7 @@
       "price_m2": "885",
       "house_id": "Корпус №5",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "5",
       "explication": [
         {
@@ -2681,6 +2681,57 @@
         }
       ],
       "area_living": "15.18"
+    },
+    {
+      "id": 565,
+      "room_count": "2",
+      "area_total": "96.88",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/1поверх-01.png_994177_1608197965.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521769-1697283528.png"
+        }
+      ],
+      "price_total": "86000",
+      "price_m2": "888",
+      "house_id": "Корпус №5",
+      "section_id": "Секція 6",
+      "status": "available",
+      "flat_number": "65",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.08"
+        },
+        {
+          "name": "Кухня-вітальня ",
+          "area": "37.84"
+        },
+        {
+          "name": "Санвузол ",
+          "area": "7.14"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.27"
+        },
+        {
+          "name": "Спальня",
+          "area": "20.76"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.85"
+        }
+      ],
+      "area_living": "34.03"
     },
     {
       "id": "33690_24",
@@ -4222,6 +4273,78 @@
       "area_living": "61.89"
     },
     {
+      "id": "745",
+      "room_count": "3",
+      "area_total": "132.92",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/floor_5.png_318665_1616883759.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521885-1696505475.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://realbase.net/public/files/upload/floor_5.png_318665_1616883759.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521885-1696505475.png"
+        }
+      ],
+      "price_total": "81000",
+      "price_m2": "609",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 4",
+      "status": "available",
+      "flat_number": "45",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.22"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.03"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "33.57"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.87"
+        },
+        {
+          "name": "Сходи ",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол ",
+          "area": "5.19"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.04"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "18.68"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "17.10"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "32.20"
+        },
+        {
+          "name": "Санвузол",
+          "area": "3.56"
+        }
+      ],
+      "area_living": "67.98"
+    },
+    {
       "id": "34737_31",
       "room_count": "3",
       "area_total": "144.14",
@@ -4759,7 +4882,7 @@
       "price_m2": "924",
       "house_id": "Корпус №9",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "18",
       "explication": [
         {
