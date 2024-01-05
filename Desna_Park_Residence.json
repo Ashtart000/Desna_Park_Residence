@@ -1,5 +1,5 @@
 {
-  "generation_time": "2023-12-06 09:00:00",
+  "generation_time": "2024-01-05 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -127,7 +127,7 @@
       "price_m2": "931",
       "house_id": "Корпус №1",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "37",
       "explication": [
         {
@@ -536,7 +536,7 @@
       "price_m2": "906",
       "house_id": "Корпус №3",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "6",
       "explication": [
         {
@@ -593,6 +593,49 @@
       "section_id": "Секція 1",
       "status": "sold",
       "flat_number": "12",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.39"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.42"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        }
+      ],
+      "area_living": "15.42"
+    },
+    {
+      "id": 321,
+      "room_count": "1",
+      "area_total": "45.70",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/1-02.png_385488_1573480997.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-522679-1703167370.png"
+        }
+      ],
+      "price_total": "43000",
+      "price_m2": "941",
+      "house_id": "Корпус №3",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "21",
       "explication": [
         {
           "name": "Передпокій",
