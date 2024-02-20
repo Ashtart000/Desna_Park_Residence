@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-02-05 09:00:00",
+  "generation_time": "2024-02-21 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -348,7 +348,7 @@
       "price_m2": "923",
       "house_id": "Корпус №2",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "36",
       "explication": [
         {
@@ -814,7 +814,7 @@
       "price_m2": "921",
       "house_id": "Корпус №4",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "36",
       "explication": [
         {
@@ -1654,8 +1654,8 @@
           "img_flat": "https://realbase.net/public/files/upload/92,55_new.png_560891_1677186234.png"
         }
       ],
-      "price_total": "82000",
-      "price_m2": "874",
+      "price_total": "80500",
+      "price_m2": "858",
       "house_id": "Корпус №5",
       "section_id": "Секція 2",
       "status": "available",
@@ -3526,8 +3526,8 @@
           "img_flat": "https://realbase.net/public/files/upload/68.png_150212_1638438702.png"
         }
       ],
-      "price_total": "60000",
-      "price_m2": "925",
+      "price_total": "62000",
+      "price_m2": "955",
       "house_id": "Корпус №6",
       "section_id": "Секція 4",
       "status": "available",
@@ -5093,6 +5093,61 @@
       "area_living": "30.17"
     },
     {
+      "id": 823,
+      "room_count": "2",
+      "area_total": "69.50",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom2.png_751767_1670274733.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521835-1687386974.png"
+        }
+      ],
+      "price_total": "62000",
+      "price_m2": "892",
+      "house_id": "Корпус №8",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "23",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "5.96"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.28"
+        },
+        {
+          "name": "С/в 1",
+          "area": "2.04"
+        },
+        {
+          "name": "Коридор",
+          "area": "3.60"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.15"
+        },
+        {
+          "name": "С/в 2",
+          "area": "4.20"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.00"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        }
+      ],
+      "area_living": "30.15"
+    },
+    {
       "id": "29196",
       "room_count": "2",
       "area_total": "67.10",
@@ -5321,8 +5376,8 @@
           "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521954-1701647581.png"
         }
       ],
-      "price_total": "60000",
-      "price_m2": "926",
+      "price_total": "62000",
+      "price_m2": "957",
       "house_id": "Корпус №9",
       "section_id": "Секція 2",
       "status": "available",
@@ -5385,7 +5440,7 @@
       "price_m2": "727",
       "house_id": "Корпус №9",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "29",
       "explication": [
         {
