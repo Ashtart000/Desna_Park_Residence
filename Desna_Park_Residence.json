@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-02-21 09:00:00",
+  "generation_time": "2024-02-22 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -1547,8 +1547,8 @@
           "img_flat": "http://realbase.net/public/files/upload/153кв.м_2.png_874449_1630148883.png"
         }
       ],
-      "price_total": "104000",
-      "price_m2": "663",
+      "price_total": "99900",
+      "price_m2": "637",
       "house_id": "корпус №5",
       "section_id": "Секція 1",
       "status": "available",
@@ -1786,8 +1786,8 @@
           "img_flat": "http://realbase.net/public/files/upload/164_2.png_329561_1630416906.png"
         }
       ],
-      "price_total": "109000",
-      "price_m2": "626",
+      "price_total": "110500",
+      "price_m2": "635",
       "house_id": "Корпус №5",
       "section_id": "Секція 2",
       "status": "available",
@@ -3088,8 +3088,8 @@
           "img_flat": "http://realbase.net/public/files/upload/161кв.м_2.png_371210_1630150382.png"
         }
       ],
-      "price_total": "112000",
-      "price_m2": "658",
+      "price_total": "112192",
+      "price_m2": "659",
       "house_id": "Корпус №5",
       "section_id": "Секція 6",
       "status": "available",
@@ -3680,8 +3680,8 @@
           "img_flat": "http://realbase.net/public/files/upload/48k4_2.png_974233_1616867493.png"
         }
       ],
-      "price_total": "89500",
-      "price_m2": "645",
+      "price_total": "89700",
+      "price_m2": "646",
       "house_id": "Корпус №7",
       "section_id": "Секція 1",
       "status": "available",
@@ -4044,8 +4044,8 @@
           "img_flat": "https://realbase.net/public/files/upload/46k4_2.png_601358_1616872993.png"
         }
       ],
-      "price_total": "99800",
-      "price_m2": "592",
+      "price_total": "99200",
+      "price_m2": "588",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
       "status": "available",
@@ -4128,8 +4128,8 @@
           "img_flat": "https://realbase.net/public/files/upload/49k4_2.png_699551_1616874574.png"
         }
       ],
-      "price_total": "101000",
-      "price_m2": "613",
+      "price_total": "100000",
+      "price_m2": "607",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
       "status": "available",
@@ -4439,8 +4439,8 @@
           "img_flat": "https://realbase.net/public/files/upload/144_2.png_734015_1631782546.png"
         }
       ],
-      "price_total": "90000",
-      "price_m2": "624",
+      "price_total": "90400",
+      "price_m2": "627",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -4699,8 +4699,8 @@
           "img_flat": "http://realbase.net/public/files/upload/144_2.png_734015_1631782546.png"
         }
       ],
-      "price_total": "90000",
-      "price_m2": "624",
+      "price_total": "90500",
+      "price_m2": "628",
       "house_id": "Корпус №7",
       "section_id": "Секція 4",
       "status": "available",
@@ -4883,8 +4883,8 @@
           "img_flat": "http://realbase.net/public/files/upload/144_2.png_734015_1631782546.png"
         }
       ],
-      "price_total": "90000",
-      "price_m2": "624",
+      "price_total": "90500",
+      "price_m2": "628",
       "house_id": "Корпус №7",
       "section_id": "Секція 5",
       "status": "available",
