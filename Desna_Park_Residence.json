@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-02-22 09:00:00",
+  "generation_time": "2024-02-28 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -2508,7 +2508,7 @@
       "price_m2": "907",
       "house_id": "Корпус №5",
       "section_id": "Секція 5",
-      "status": "available",
+      "status": "sold",
       "flat_number": "54",
       "explication": [
         {
@@ -3231,6 +3231,61 @@
       "area_living": "74.25"
     },
     {
+      "id": "602",
+      "room_count": "2",
+      "area_total": "67.00",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86-01.png_461787_1574359739.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521778-1708955270.png"
+        }
+      ],
+      "price_total": "62000",
+      "price_m2": "925",
+      "house_id": "Корпус №6",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "2",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.55"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.28"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "1.88"
+        },
+        {
+          "name": "Коридор",
+          "area": "3.62"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.02"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "4.20"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.15"
+        }
+      ],
+      "area_living": "30.17"
+    },
+    {
       "id": 29360,
       "room_count": "2",
       "area_total": "78.23",
@@ -3324,7 +3379,7 @@
       "price_m2": "689",
       "house_id": "Корпус №6",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "30",
       "explication": [
         {
@@ -3399,8 +3454,8 @@
           "img_flat": "https://realbase.net/public/files/upload/45,63.png_888228_1630833531.png"
         }
       ],
-      "price_total": "43000",
-      "price_m2": "935",
+      "price_total": "44800",
+      "price_m2": "974",
       "house_id": "Корпус №6",
       "section_id": "Секція 3",
       "status": "available",
@@ -3526,8 +3581,8 @@
           "img_flat": "https://realbase.net/public/files/upload/68.png_150212_1638438702.png"
         }
       ],
-      "price_total": "62000",
-      "price_m2": "955",
+      "price_total": "63000",
+      "price_m2": "971",
       "house_id": "Корпус №6",
       "section_id": "Секція 4",
       "status": "available",
@@ -5105,8 +5160,8 @@
           "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521835-1687386974.png"
         }
       ],
-      "price_total": "62000",
-      "price_m2": "892",
+      "price_total": "63000",
+      "price_m2": "906",
       "house_id": "Корпус №8",
       "section_id": "Секція 2",
       "status": "available",
@@ -5376,8 +5431,8 @@
           "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521954-1701647581.png"
         }
       ],
-      "price_total": "62000",
-      "price_m2": "957",
+      "price_total": "63000",
+      "price_m2": "972",
       "house_id": "Корпус №9",
       "section_id": "Секція 2",
       "status": "available",
