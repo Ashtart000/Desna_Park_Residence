@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-04-18 09:00:00",
+  "generation_time": "2024-05-07 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -659,6 +659,61 @@
         }
       ],
       "area_living": "15.42"
+    },
+    {
+      "id": "326",
+      "room_count": "2",
+      "area_total": "64.50",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/dom2_3.png_180128_1677184103.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-522684-1715082852.jpeg"
+        }
+      ],
+      "price_total": "65500",
+      "price_m2": "1015",
+      "house_id": "Корпус №3",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "26",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "5.47"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.99"
+        },
+        {
+          "name": "С/в 1",
+          "area": "2.14"
+        },
+        {
+          "name": "Коридор",
+          "area": "3.22"
+        },
+        {
+          "name": "Дитяча",
+          "area": "10.00"
+        },
+        {
+          "name": "С/в 2",
+          "area": "3.95"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.88"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.95"
+        }
+      ],
+      "area_living": "27.88"
     },
     {
       "id": "30613",
@@ -3247,7 +3302,7 @@
       "price_m2": "925",
       "house_id": "Корпус №6",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "2",
       "explication": [
         {
@@ -4258,6 +4313,53 @@
       "area_living": "64.39"
     },
     {
+      "id": "730",
+      "room_count": "1",
+      "area_total": "51.39",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521870-1715083317.jpeg"
+        }
+      ],
+      "price_total": "50000",
+      "price_m2": "973",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 3",
+      "status": "available",
+      "flat_number": "30",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.82"
+        },
+        {
+          "name": "Гардеробна",
+          "area": "2.51"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "18.86"
+        },
+        {
+          "name": "Санвузол",
+          "area": "4.03"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.73"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.44"
+        }
+      ],
+      "area_living": "15.73"
+    },
+    {
       "id": "34703_29",
       "room_count": "2",
       "area_total": "83.83",
@@ -5080,6 +5182,61 @@
       "area_living": "55.88"
     },
     {
+      "id": "802",
+      "room_count": "2",
+      "area_total": "66.20",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86-01.png_461787_1574359739.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521778-1708955270.png"
+        }
+      ],
+      "price_total": "65500",
+      "price_m2": "989",
+      "house_id": "Корпус №8",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "2",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.55"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.28"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "1.88"
+        },
+        {
+          "name": "Коридор",
+          "area": "3.62"
+        },
+        {
+          "name": "Спальня",
+          "area": "17.02"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.28"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "4.20"
+        },
+        {
+          "name": "Дитяча",
+          "area": "13.15"
+        }
+      ],
+      "area_living": "30.17"
+    },
+    {
       "id": "29166_2",
       "room_count": "2",
       "area_total": "78.23",
@@ -5168,7 +5325,7 @@
       "price_m2": "938",
       "house_id": "Корпус №8",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "19",
       "explication": [
         {
