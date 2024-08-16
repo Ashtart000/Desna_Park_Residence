@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-08-16 09:00:00",
+  "generation_time": "2024-08-17 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -3894,6 +3894,78 @@
         }
       ],
       "area_living": "30.15"
+    },
+    {
+      "id": 661,
+      "room_count": "2",
+      "area_total": "81.80",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "http://realbase.net/public/files/upload/второй-01.png_56656_1574359831.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521837-1723812886.jpeg"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "http://realbase.net/public/files/upload/второй-01.png_56656_1574359831.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521837-1723812886.jpeg"
+        }
+      ],
+      "price_total": "58400",
+      "price_m2": "714",
+      "house_id": "Корпус №6",
+      "section_id": "Секція 4",
+      "status": "available",
+      "flat_number": "61",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.35"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "3.62"
+        },
+        {
+          "name": "Спальня",
+          "area": "13.07"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "5.68"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "8.54"
+        },
+        {
+          "name": "Дитяча",
+          "area": "17.72"
+        },
+        {
+          "name": "Загалом 1-й поверх",
+          "area": "42.83"
+        },
+        {
+          "name": "Загалом 2-й поверх",
+          "area": "35.40"
+        }
+      ],
+      "area_living": "30.79"
     },
     {
       "id": 704,
