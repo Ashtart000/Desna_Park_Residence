@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-09-30 09:00:00",
+  "generation_time": "2024-11-14 09:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -85,10 +85,10 @@
         }
       ],
       "price_total": "42000",
-      "price_m2": "921",
+      "price_m2": "932",
       "house_id": "Корпус №1",
       "section_id": "Секція 3",
-      "status": "sold",
+      "status": "available",
       "flat_number": "33",
       "explication": [
         {
@@ -990,6 +990,74 @@
       "area_living": "15.42"
     },
     {
+      "id": "432",
+      "room_count": "3",
+      "area_total": "109.87",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://realbase.net/public/files/upload/1-05.png_628408_1573481705.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521692-1730725624.jpeg"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://realbase.net/public/files/upload/1-05.png_628408_1573481705.png",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521692-1730725624.jpeg"
+        }
+      ],
+      "price_total": "74000",
+      "price_m2": "674",
+      "house_id": "Корпус №4",
+      "section_id": "Секція 2",
+      "status": "available",
+      "flat_number": "32",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.35"
+        },
+        {
+          "name": "Лоджія",
+          "area": "5.54"
+        },
+        {
+          "name": "Санвузол 1",
+          "area": "3.62"
+        },
+        {
+          "name": "Спальня 1",
+          "area": "13.07"
+        },
+        {
+          "name": "Сходи",
+          "area": "3.46"
+        },
+        {
+          "name": "Хол",
+          "area": "10.30"
+        },
+        {
+          "name": "Спальня 2",
+          "area": "22.70"
+        },
+        {
+          "name": "Санвузол 2",
+          "area": "10.00"
+        },
+        {
+          "name": "Дитяча ",
+          "area": "17.72"
+        }
+      ],
+      "area_living": "53.49"
+    },
+    {
       "id": "30669",
       "room_count": "1",
       "area_total": "45.60",
@@ -1277,7 +1345,7 @@
       "price_m2": "678",
       "house_id": "Корпус №4",
       "section_id": "Секція 5",
-      "status": "available",
+      "status": "sold",
       "flat_number": "74",
       "explication": [
         {
@@ -1365,8 +1433,8 @@
           "img_flat": "http://realbase.net/public/files/upload/75дом4.png_735772_1629979507.png"
         }
       ],
-      "price_total": "85000",
-      "price_m2": "625",
+      "price_total": "84000",
+      "price_m2": "618",
       "house_id": "Корпус №4",
       "section_id": "Секція 5",
       "status": "available",
@@ -1741,7 +1809,7 @@
       "price_m2": "631.38",
       "house_id": "корпус №5",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "11",
       "explication": [
         {
@@ -2476,7 +2544,7 @@
       "price_m2": "671.23",
       "house_id": "Корпус №5",
       "section_id": "Секція 4",
-      "status": "available",
+      "status": "sold",
       "flat_number": "46",
       "explication": [
         {
@@ -4066,7 +4134,7 @@
       "price_m2": "938.19",
       "house_id": "Корпус №7",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "4",
       "explication": [
         {
@@ -4105,7 +4173,7 @@
       "price_m2": "900.12",
       "house_id": "Корпус №7",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "11",
       "explication": [
         {
@@ -4533,7 +4601,7 @@
       "price_m2": "628",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "26",
       "explication": [
         {
@@ -4601,7 +4669,7 @@
       "price_m2": "590",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "27",
       "explication": [
         {
@@ -4685,7 +4753,7 @@
       "price_m2": "610",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "28",
       "explication": [
         {
@@ -5398,7 +5466,7 @@
       "price_m2": "879.90",
       "house_id": "Корпус №7",
       "section_id": "Секція 5",
-      "status": "available",
+      "status": "sold",
       "flat_number": "49",
       "explication": [
         {
@@ -5641,7 +5709,7 @@
       "price_m2": "989",
       "house_id": "Корпус №8",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "2",
       "explication": [
         {
