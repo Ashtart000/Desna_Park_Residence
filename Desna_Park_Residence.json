@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-11-14 09:00:00",
+  "generation_time": "2024-12-12 11:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -84,7 +84,7 @@
           "img_flat": "https://realbase.net/public/files/upload/45_1%D0%B9-%D1%8D%D1%82%D0%B0%D0%B6_1.png_217235_1632755121.png"
         }
       ],
-      "price_total": "42000",
+      "price_total": "42500",
       "price_m2": "932",
       "house_id": "Корпус №1",
       "section_id": "Секція 3",
@@ -1512,7 +1512,7 @@
       "price_m2": "881",
       "house_id": "Корпус №4",
       "section_id": "Секція 6",
-      "status": "available",
+      "status": "sold",
       "flat_number": "84",
       "explication": [
         {
@@ -5883,7 +5883,7 @@
       "price_m2": "953",
       "house_id": "Корпус №8",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "19",
       "explication": [
         {
@@ -6159,7 +6159,7 @@
       "price_m2": "802",
       "house_id": "Корпус №9",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "16",
       "explication": [
         {
