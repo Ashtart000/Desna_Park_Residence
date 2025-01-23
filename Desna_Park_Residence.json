@@ -1,5 +1,5 @@
 {
-  "generation_time": "2024-12-18 11:00:00",
+  "generation_time": "2025-01-24 10:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -88,7 +88,7 @@
       "price_m2": "932",
       "house_id": "Корпус №1",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "33",
       "explication": [
         {
@@ -4157,6 +4157,45 @@
       "area_living": "15.42"
     },
     {
+      "id": 708,
+      "room_count": "1",
+      "area_total": "45.90",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521848-1737639682.jpeg",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521848-1737639682.jpeg"
+        }
+      ],
+      "price_total": "45000",
+      "price_m2": "980.39",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "8",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "3.25"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "21.10"
+        },
+        {
+          "name": "Санвузол",
+          "area": "5.39"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.42"
+        }
+      ],
+      "area_living": "15.42"
+    },
+    {
       "id": 711,
       "room_count": "2",
       "area_total": "86.10",
@@ -4233,7 +4272,7 @@
       "price_m2": "663",
       "house_id": "Корпус №7",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "15",
       "explication": [
         {
@@ -4840,7 +4879,7 @@
       "price_m2": "959",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "26-1",
       "explication": [
         {
