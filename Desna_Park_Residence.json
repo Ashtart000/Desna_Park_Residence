@@ -1,5 +1,5 @@
 {
-  "generation_time": "2025-01-24 10:00:00",
+  "generation_time": "2025-02-13 10:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -4339,6 +4339,96 @@
       "area_living": "68.10"
     },
     {
+      "id": "715-1",
+      "room_count": "2",
+      "area_total": "78.70",
+      "floor": "4",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674037-1738930084.jpeg",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674037-1738930084.jpeg"
+        }
+      ],
+      "price_total": "76500",
+      "price_m2": "972.05",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "15-1",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.18"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.11"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.84"
+        },
+        {
+          "name": "С/в",
+          "area": "2.04"
+        },
+        {
+          "name": "С/в 2",
+          "area": "4.91"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "21.62"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "17.75"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        }
+      ],
+      "area_living": "39.37"
+    },
+    {
+      "id": "715-2",
+      "room_count": "1",
+      "area_total": "53.50",
+      "floor": "5",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674038-1738931318.jpeg",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674038-1738931318.jpeg"
+        }
+      ],
+      "price_total": "39000",
+      "price_m2": "728.97",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "15-1",
+      "explication": [
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.00"
+        },
+        {
+          "name": "Санвузол",
+          "area": "9.40"
+        },
+        {
+          "name": "Житлова",
+          "area": "20.10"
+        }
+      ],
+      "area_living": "20.10"
+    },
+    {
       "id": 716,
       "room_count": "2",
       "area_total": "81.00",
@@ -4427,7 +4517,7 @@
       "price_m2": "853.60",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "18",
       "explication": [
         {
@@ -4533,7 +4623,7 @@
       "price_m2": "874",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "22",
       "explication": [
         {
@@ -5172,7 +5262,7 @@
       "price_m2": "871",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "31",
       "explication": [
         {
@@ -5862,7 +5952,7 @@
       "price_m2": "637",
       "house_id": "Корпус №7",
       "section_id": "Секція 5",
-      "status": "available",
+      "status": "sold",
       "flat_number": "54",
       "explication": [
         {
@@ -5923,6 +6013,100 @@
         }
       ],
       "area_living": "74.25"
+    },
+    {
+      "id": "754-1",
+      "room_count": "2",
+      "area_total": "72.20",
+      "floor": "4",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674039-1738945935.jpeg",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674039-1738945935.jpeg"
+        }
+      ],
+      "price_total": "71000",
+      "price_m2": "983.38",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 5",
+      "status": "available",
+      "flat_number": "54-1",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.18"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "17.11"
+        },
+        {
+          "name": "Гардероб",
+          "area": "3.84"
+        },
+        {
+          "name": "С/в",
+          "area": "2.04"
+        },
+        {
+          "name": "С/в 2",
+          "area": "4.91"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "21.62"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "17.75"
+        },
+        {
+          "name": "Лоджія",
+          "area": "4.65"
+        }
+      ],
+      "area_living": "39.37"
+    },
+    {
+      "id": "754-2",
+      "room_count": "2",
+      "area_total": "69.60",
+      "floor": "5",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674040-1738945969.jpeg",
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-674040-1738945969.jpeg"
+        }
+      ],
+      "price_total": "52000",
+      "price_m2": "747.13",
+      "house_id": "Корпус №7",
+      "section_id": "Секція 5",
+      "status": "available",
+      "flat_number": "54-2",
+      "explication": [
+        {
+          "name": "Житлова",
+          "area": "19.80"
+        },
+        {
+          "name": "Кухня",
+          "area": "42.80"
+        },
+        {
+          "name": "С/в 1",
+          "area": "6.00"
+        },
+        {
+          "name": "С/в 2",
+          "area": "11.60"
+        }
+      ],
+      "area_living": "41.70"
     },
     {
       "id": "34758_33",
