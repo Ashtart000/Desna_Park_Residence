@@ -1293,7 +1293,7 @@
       "price_m2": "891",
       "house_id": "Корпус №4",
       "section_id": "Секція 4",
-      "status": "available",
+      "status": "sold",
       "flat_number": "52",
       "explication": [
         {
@@ -6335,7 +6335,7 @@
       "price_m2": "970",
       "house_id": "Корпус №8",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "12",
       "explication": [
         {
