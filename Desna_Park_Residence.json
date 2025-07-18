@@ -1,5 +1,5 @@
 {
-  "generation_time": "2025-06-20 10:00:00",
+  "generation_time": "2025-07-18 10:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -264,7 +264,7 @@
       "price_m2": "990.85",
       "house_id": "Корпус №2",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "26",
       "explication": [
         {
@@ -3606,7 +3606,7 @@
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B8%CC%86-01.png_461787_1574359739.png",
-          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-618915-1716981310.jpeg"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-618915-1740222127.jpeg"
         }
       ],
       "price_total": "47500",
@@ -4228,7 +4228,7 @@
       "price_m2": "980.39",
       "house_id": "Корпус №7",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "8",
       "explication": [
         {
@@ -5614,18 +5614,18 @@
     {
       "id": "735-1",
       "room_count": "1",
-      "area_total": "40.50",
+      "area_total": "40.10",
       "floor": "4",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
-          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709574-1748342076.jpeg"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709574-1752576830.jpeg"
         }
       ],
-      "price_total": "40500",
-      "price_m2": "1000.00",
+      "price_total": "40000",
+      "price_m2": "998.00",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -5657,7 +5657,7 @@
     {
       "id": "735-2",
       "room_count": "1",
-      "area_total": "29.50",
+      "area_total": "29.00",
       "floor": "4",
       "levels_count": "1",
       "levels": [
@@ -5667,7 +5667,7 @@
           "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709575-1749650554.jpeg"
         }
       ],
-      "price_total": "31000",
+      "price_total": "29000",
       "price_m2": "1050.00",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
@@ -5696,7 +5696,7 @@
     {
       "id": "735-3",
       "room_count": "1",
-      "area_total": "60.00",
+      "area_total": "63.80",
       "floor": "5",
       "levels_count": "1",
       "levels": [
@@ -5706,8 +5706,8 @@
           "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709628-1749650243.jpeg"
         }
       ],
-      "price_total": "45000",
-      "price_m2": "750.00",
+      "price_total": "47500",
+      "price_m2": "745.00",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -5735,18 +5735,18 @@
     {
       "id": "736-1",
       "room_count": "2",
-      "area_total": "73.50",
+      "area_total": "71.50",
       "floor": "4",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
-          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709576-1749652708.jpeg"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709576-1752582531.jpeg"
         }
       ],
-      "price_total": "72500",
-      "price_m2": "986.39",
+      "price_total": "73000",
+      "price_m2": "1021.00",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -5777,23 +5777,23 @@
           "area": "4.90"
         }
       ],
-      "area_living": "31.20"
+      "area_living": "26.80"
     },
     {
       "id": "736-2",
       "room_count": "2",
-      "area_total": "69.00",
+      "area_total": "66.8",
       "floor": "5",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
-          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709577-1749722575.jpeg"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709577-1752582788.jpeg"
         }
       ],
       "price_total": "52000",
-      "price_m2": "753.62",
+      "price_m2": "778.44",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -5820,23 +5820,23 @@
           "area": "16.00"
         }
       ],
-      "area_living": "34.00"
+      "area_living": "28.60"
     },
     {
       "id": "737-1",
       "room_count": "1",
-      "area_total": "40.50",
+      "area_total": "40.30",
       "floor": "4",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
-          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709578-1748343321.jpeg"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709578-1752576874.jpeg"
         }
       ],
-      "price_total": "40500",
-      "price_m2": "1000.00",
+      "price_total": "40000",
+      "price_m2": "993.00",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -5867,19 +5867,19 @@
     },
     {
       "id": "737-2",
-      "room_count": "2",
-      "area_total": "78.90",
+      "room_count": "1",
+      "area_total": "80.90",
       "floor": "5",
       "levels_count": "1",
       "levels": [
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_487766_1608198175.png",
-          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709579-1749722632.jpeg"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-709579-1752584017.jpeg"
         }
       ],
-      "price_total": "59500",
-      "price_m2": "754.12",
+      "price_total": "60000",
+      "price_m2": "741.66",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -5930,7 +5930,7 @@
       "price_m2": "687",
       "house_id": "Корпус №7",
       "section_id": "Секція 4",
-      "status": "available",
+      "status": "sold",
       "flat_number": "44",
       "explication": [
         {
@@ -6026,7 +6026,7 @@
       "price_m2": "632",
       "house_id": "Корпус №7",
       "section_id": "Секція 4",
-      "status": "available",
+      "status": "sold",
       "flat_number": "45",
       "explication": [
         {
@@ -6098,7 +6098,7 @@
       "price_m2": "682",
       "house_id": "Корпус №7",
       "section_id": "Секція 4",
-      "status": "available",
+      "status": "sold",
       "flat_number": "46",
       "explication": [
         {
