@@ -814,7 +814,7 @@
       "price_m2": "977",
       "house_id": "Корпус №3",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "22",
       "explication": [
         {
@@ -2130,11 +2130,11 @@
           "img_flat": "https://realbase.net/public/files/upload/79.png_894559_1632648668.png"
         }
       ],
-      "price_total": "71000",
-      "price_m2": "890.84",
+      "price_total": "72000",
+      "price_m2": "903.39",
       "house_id": "Корпус №5",
       "section_id": "Секція 3",
-      "status": "sold",
+      "status": "available",
       "flat_number": "27",
       "explication": [
         {
