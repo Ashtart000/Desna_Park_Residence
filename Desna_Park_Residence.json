@@ -1,5 +1,5 @@
 {
-  "generation_time": "2025-10-14 10:00:00",
+  "generation_time": "2025-10-18 10:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -1337,7 +1337,7 @@
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/dom4_2_1.png_792317_1666219998.png",
-          "img_flat": "http://realbase.net/public/files/upload/79.png_634954_1653063687.png"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521673-1760781184.jpeg"
         }
       ],
       "price_total": "72000",
@@ -2127,7 +2127,7 @@
         {
           "level_number": 1,
           "img_floor": "https://realbase.net/public/files/upload/1%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85-01.png_286072_1608198105.png",
-          "img_flat": "https://realbase.net/public/files/upload/79.png_894559_1632648668.png"
+          "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521673-1760781184.jpeg"
         }
       ],
       "price_total": "72000",
@@ -5796,7 +5796,7 @@
       "price_m2": "751",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "36-2",
       "explication": [
         {
