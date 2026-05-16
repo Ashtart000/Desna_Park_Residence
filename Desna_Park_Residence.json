@@ -1,5 +1,5 @@
 {
-  "generation_time": "2025-12-29 10:00:00",
+  "generation_time": "2025-05-18 10:00:00",
   "building_name": "ЖК Desna Park Residence",
   "currency": "usd",
   "flats": [
@@ -2766,7 +2766,7 @@
       "price_m2": "901",
       "house_id": "Корпус №5",
       "section_id": "Секція 5",
-      "status": "available",
+      "status": "sold",
       "flat_number": "49",
       "explication": [
         {
@@ -4627,7 +4627,7 @@
       "price_m2": "909",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
-      "status": "available",
+      "status": "sold",
       "flat_number": "19",
       "explication": [
         {
