@@ -2134,7 +2134,7 @@
       "price_m2": "903.39",
       "house_id": "Корпус №5",
       "section_id": "Секція 3",
-      "status": "available",
+      "status": "sold",
       "flat_number": "27",
       "explication": [
         {
@@ -3169,11 +3169,11 @@
           "img_flat": "https://flatris.com.ua/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&h=960&zc=0&far=0&q=100&src=/assets/uploads/3376/plans/2d-521764-1701644009.jpeg"
         }
       ],
-      "price_total": "48500",
-      "price_m2": "915",
+      "price_total": "59000",
+      "price_m2": "1113",
       "house_id": "Корпус №5",
       "section_id": "Секція 2",
-      "status": "sold",
+      "status": "available",
       "flat_number": "60",
       "explication": [
         {
