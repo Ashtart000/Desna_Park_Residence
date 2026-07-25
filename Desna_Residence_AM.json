@@ -1,0 +1,1917 @@
+{
+  "generation_time": "2026-07-28 10:00:00",
+  "building_name": "ЖК Desna Residence",
+  "currency": "usd",
+  "flats": [
+    {
+      "id": "22_01",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_01_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_01_r.png"
+        }
+      ],
+      "price_total": "77922",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "1",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.76"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "14.33"
+        },
+        {
+          "name": "С/в",
+          "area": "7.35"
+        },
+        {
+          "name": "Дитяча",
+          "area": "10.79"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.04"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.45"
+        }
+      ],
+      "area_living": "26.83"
+    },
+    {
+      "id": "22_02",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_02_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "57173",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "2",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_03",
+      "room_count": "1",
+      "area_total": "52.25",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_03_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/52.png"
+        }
+      ],
+      "price_total": "70538",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "3",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.50"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.12"
+        },
+        {
+          "name": "С/в",
+          "area": "4.92"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.68"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "16.68"
+    },
+    {
+      "id": "22_04",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_04_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "55055",
+      "price_m2": "1300",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "4",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_05",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_05_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_l.png"
+        }
+      ],
+      "price_total": "75036",
+      "price_m2": "1300",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "5",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "22_06",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_06_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_r.png"
+        }
+      ],
+      "price_total": "80808",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "6",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "22_07",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_07_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "7",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_08",
+      "room_count": "1",
+      "area_total": "52.25",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_08_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/52.png"
+        }
+      ],
+      "price_total": "73150",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "8",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.50"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.12"
+        },
+        {
+          "name": "С/в",
+          "area": "4.92"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.68"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "16.68"
+    },
+    {
+      "id": "22_09",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_09_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "57173",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "9",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_10",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_10_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_l.png"
+        }
+      ],
+      "price_total": "77922",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "10",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "22_11",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_06_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_r.png"
+        }
+      ],
+      "price_total": "80808",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "11",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "22_12",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_07_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "12",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_13",
+      "room_count": "1",
+      "area_total": "52.25",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_08_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/52.png"
+        }
+      ],
+      "price_total": "73150",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "13",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.50"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.12"
+        },
+        {
+          "name": "С/в",
+          "area": "4.92"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.68"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "16.68"
+    },
+    {
+      "id": "22_14",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_09_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "57173",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "14",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_15",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_10_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_l.png"
+        }
+      ],
+      "price_total": "77922",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "15",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "22_16",
+      "room_count": "2",
+      "area_total": "93.19",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_16_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/93.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_16_поверх_5.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/93.png"
+        }
+      ],
+      "price_total": "93190",
+      "price_m2": "1000",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "16",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.74"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.87"
+        },
+        {
+          "name": "С/в",
+          "area": "2.02"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "29.46"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.50"
+        },
+        {
+          "name": "Коридор 2-й поверх",
+          "area": "3.94"
+        },
+        {
+          "name": "С/в 2-й поверх",
+          "area": "8.51"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.25"
+        },
+        {
+          "name": "Балкон 2-й поверх",
+          "area": "2.88"
+        }
+      ],
+      "area_living": "48.71"
+    },
+    {
+      "id": "22_17",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "4",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_07_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "17",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_18",
+      "room_count": "3",
+      "area_total": "111.15",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_18_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/111.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_18_поверх_5.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/111.png"
+        }
+      ],
+      "price_total": "111150",
+      "price_m2": "1000",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "18",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.78"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "31.35"
+        },
+        {
+          "name": "С/в",
+          "area": "1.76"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "10.92"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        },
+        {
+          "name": "Коридор 2-й поверх",
+          "area": "5.49"
+        },
+        {
+          "name": "С/в 2-й поверх",
+          "area": "8.43"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.21"
+        },
+        {
+          "name": "Спальня",
+          "area": "23.15"
+        },
+        {
+          "name": "Балкон 2-й поверх",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "53.28"
+    },
+    {
+      "id": "22_19",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "4",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_09_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "57173",
+      "price_m2": "1350",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "19",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "22_20",
+      "room_count": "3",
+      "area_total": "115.92",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_20_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/116.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_20_поверх_5.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/116.png"
+        }
+      ],
+      "price_total": "110124",
+      "price_m2": "950",
+      "house_id": "Давос 22",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "20",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.76"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.87"
+        },
+        {
+          "name": "С/в",
+          "area": "2.02"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "29.46"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.50"
+        },
+        {
+          "name": "Коридор 2-й поверх",
+          "area": "9.08"
+        },
+        {
+          "name": "С/в 2-й поверх",
+          "area": "6.58"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.30"
+        },
+        {
+          "name": "Спальня",
+          "area": "14.11"
+        },
+        {
+          "name": "Балкон 2-й поверх",
+          "area": "2.88"
+        }
+      ],
+      "area_living": "59.87"
+    },
+    {
+      "id": "23_01",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_01_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_01_r.png"
+        }
+      ],
+      "price_total": "77922",
+      "price_m2": "1350",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "1",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.76"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "14.33"
+        },
+        {
+          "name": "С/в",
+          "area": "7.35"
+        },
+        {
+          "name": "Дитяча",
+          "area": "10.79"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.04"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.45"
+        }
+      ],
+      "area_living": "26.83"
+    },
+    {
+      "id": "23_02",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_02_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "57173",
+      "price_m2": "1350",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "2",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_03",
+      "room_count": "1",
+      "area_total": "52.25",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_03_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/52.png"
+        }
+      ],
+      "price_total": "70538",
+      "price_m2": "1350",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "3",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.50"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.12"
+        },
+        {
+          "name": "С/в",
+          "area": "4.92"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.68"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "16.68"
+    },
+    {
+      "id": "23_04",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_04_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "57173",
+      "price_m2": "1350",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "4",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_05",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "1",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_05_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_l.png"
+        }
+      ],
+      "price_total": "77922",
+      "price_m2": "1350",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "5",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "23_06",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_06_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_r.png"
+        }
+      ],
+      "price_total": "80808",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "6",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "23_07",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_07_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "7",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_08",
+      "room_count": "1",
+      "area_total": "52.25",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_08_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/52.png"
+        }
+      ],
+      "price_total": "73150",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "8",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.50"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.12"
+        },
+        {
+          "name": "С/в",
+          "area": "4.92"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.68"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "16.68"
+    },
+    {
+      "id": "23_09",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_09_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "9",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_10",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "2",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_10_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_l.png"
+        }
+      ],
+      "price_total": "80808",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "10",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "23_11",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_06_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_r.png"
+        }
+      ],
+      "price_total": "80808",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "11",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "23_12",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_07_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "12",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_13",
+      "room_count": "1",
+      "area_total": "52.25",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_08_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/52.png"
+        }
+      ],
+      "price_total": "73150",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "13",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "4.50"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "24.12"
+        },
+        {
+          "name": "С/в",
+          "area": "4.92"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.68"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "16.68"
+    },
+    {
+      "id": "23_14",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_09_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "sold",
+      "flat_number": "14",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_15",
+      "room_count": "2",
+      "area_total": "57.72",
+      "floor": "3",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_10_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/57_l.png"
+        }
+      ],
+      "price_total": "80808",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "15",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.94"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.81"
+        },
+        {
+          "name": "С/в",
+          "area": "5.17"
+        },
+        {
+          "name": "Дитяча",
+          "area": "11.26"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.03"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.51"
+        }
+      ],
+      "area_living": "27.29"
+    },
+    {
+      "id": "23_16",
+      "room_count": "2",
+      "area_total": "93.19",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_16_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/93.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_16_поверх_5.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/93.png"
+        }
+      ],
+      "price_total": "93190",
+      "price_m2": "1000",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "16",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.74"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.87"
+        },
+        {
+          "name": "С/в",
+          "area": "2.02"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "29.46"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.50"
+        },
+        {
+          "name": "Коридор 2-й поверх",
+          "area": "3.94"
+        },
+        {
+          "name": "С/в 2-й поверх",
+          "area": "8.51"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.25"
+        },
+        {
+          "name": "Балкон 2-й поверх",
+          "area": "2.88"
+        }
+      ],
+      "area_living": "48.71"
+    },
+    {
+      "id": "23_17",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "4",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_07_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_r.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "17",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_18",
+      "room_count": "3",
+      "area_total": "111.15",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_18_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/111.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_18_поверх_5.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/111.png"
+        }
+      ],
+      "price_total": "111150",
+      "price_m2": "1000",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "18",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "6.78"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "31.35"
+        },
+        {
+          "name": "С/в",
+          "area": "1.76"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "10.92"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.03"
+        },
+        {
+          "name": "Коридор 2-й поверх",
+          "area": "5.49"
+        },
+        {
+          "name": "С/в 2-й поверх",
+          "area": "8.43"
+        },
+        {
+          "name": "Спальня",
+          "area": "19.21"
+        },
+        {
+          "name": "Спальня",
+          "area": "23.15"
+        },
+        {
+          "name": "Балкон 2-й поверх",
+          "area": "2.03"
+        }
+      ],
+      "area_living": "53.28"
+    },
+    {
+      "id": "23_19",
+      "room_count": "1",
+      "area_total": "42.35",
+      "floor": "4",
+      "levels_count": "1",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_09_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/42_l.png"
+        }
+      ],
+      "price_total": "59290",
+      "price_m2": "1400",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "19",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "10.11"
+        },
+        {
+          "name": "Кухня",
+          "area": "9.33"
+        },
+        {
+          "name": "С/в",
+          "area": "4.90"
+        },
+        {
+          "name": "Спальня",
+          "area": "15.83"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.18"
+        }
+      ],
+      "area_living": "15.83"
+    },
+    {
+      "id": "23_20",
+      "room_count": "3",
+      "area_total": "115.92",
+      "floor": "4",
+      "levels_count": "2",
+      "levels": [
+        {
+          "level_number": 1,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_20_поверх.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/116.png"
+        },
+        {
+          "level_number": 2,
+          "img_floor": "https://desna.kiev.ua/wp-content/uploads/2026/07/160_20_поверх_5.png",
+          "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/116.png"
+        }
+      ],
+      "price_total": "115920",
+      "price_m2": "1000",
+      "house_id": "Давос 23",
+      "section_id": "Секція 1",
+      "status": "available",
+      "flat_number": "20",
+      "explication": [
+        {
+          "name": "Передпокій",
+          "area": "8.76"
+        },
+        {
+          "name": "Кухня-вітальня",
+          "area": "15.87"
+        },
+        {
+          "name": "С/в",
+          "area": "2.02"
+        },
+        {
+          "name": "Житлова кімната",
+          "area": "29.46"
+        },
+        {
+          "name": "Балкон",
+          "area": "2.50"
+        },
+        {
+          "name": "Коридор 2-й поверх",
+          "area": "9.08"
+        },
+        {
+          "name": "С/в 2-й поверх",
+          "area": "6.58"
+        },
+        {
+          "name": "Спальня",
+          "area": "16.30"
+        },
+        {
+          "name": "Спальня",
+          "area": "14.11"
+        },
+        {
+          "name": "Балкон 2-й поверх",
+          "area": "2.88"
+        }
+      ],
+      "area_living": "59.87"
+    }
+  ]
+}
