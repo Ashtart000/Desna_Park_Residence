@@ -314,7 +314,7 @@
       "price_m2": "972.05",
       "house_id": "Корпус №7",
       "section_id": "Секція 1",
-      "status": "available",
+      "status": "sold",
       "flat_number": "15-1",
       "explication": [
         {
@@ -365,8 +365,8 @@
           "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/07_27-2.png"
         }
       ],
-      "price_total": "68000",
-      "price_m2": "729",
+      "price_total": "66000",
+      "price_m2": "707",
       "house_id": "Корпус №7",
       "section_id": "Секція 2",
       "status": "available",
@@ -412,8 +412,8 @@
           "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/07_37-2.png"
         }
       ],
-      "price_total": "59600",
-      "price_m2": "737",
+      "price_total": "55000",
+      "price_m2": "680",
       "house_id": "Корпус №7",
       "section_id": "Секція 3",
       "status": "available",
@@ -455,8 +455,8 @@
           "img_flat": "https://desna.kiev.ua/wp-content/uploads/2026/07/07_46-2.png"
         }
       ],
-      "price_total": "59600",
-      "price_m2": "738",
+      "price_total": "55000",
+      "price_m2": "682",
       "house_id": "Корпус №7",
       "section_id": "Секція 4",
       "status": "available",
